@@ -1,4 +1,22 @@
+# 🔒 Sensitive credentials
 .env
-credentials.json
+*.json
+
+# 📦 Python cache & system files
 __pycache__/
-*.pyc
+*.py[cod]
+*.log
+
+# 📁 Data outputs
+/data/output/*.csv
+/data/output/*.db
+/data/output/*.sqlite
+/data/output/*.sqlite3
+
+# 📄 Generated files
+*.png
+*.pdf
+
+# 💻 OS files
+.DS_Store
+Thumbs.db
