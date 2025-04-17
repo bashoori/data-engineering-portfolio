@@ -6,3 +6,6 @@ oauth2client
 python-dotenv
 requests
 beautifulsoup4
+streamlit
+plotly
+
