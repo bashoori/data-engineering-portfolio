@@ -1,8 +1,4 @@
-# data-engineering-portfolio
-🚀 A curated collection of my data engineering projects using Python, Airflow, APIs, GCP, and more.
-
-
-# 📁 Data Engineering Portfolio by Bita 
+# 📁 Data Engineering Portfolio  
 
 Welcome to my data engineering portfolio! This repository showcases real-world, hands-on projects I've built to strengthen my skills and demonstrate my experience in automation, pipeline orchestration, data scraping, cloud integration, and API-based workflows.
 
@@ -35,8 +31,8 @@ Each project includes detailed documentation, source code, and optional GitHub A
 
 ## 🧠 Skills Highlighted
 
-- **Languages:** Python, SQL, Bash
-- **Data Tools:** Apache Airflow, SSIS, Pandas, Gspread
+- **Languages:** Python (ETL, data cleaning, automation), SQL, Bash
+- **Data Tools:** Apache Airflow, SSIS, Gspread, Pandas, SQLite, Plotly
 - **Cloud:** AWS (Redshift, S3), GCP (BigQuery, Dataflow)
 - **APIs:** Telegram, LinkedIn Guest Search, Google Sheets API
 - **Automation:** GitHub Actions, Telegram Bot
