@@ -74,7 +74,7 @@ except gspread.exceptions.WorksheetNotFound:
 
 # Clear old data and set headers
 sheet.clear()
-headers_row = ["Title", "Price", "link", "Link", "Timestamp"]
+headers_row = ["Title", "Price", "link", "Timestamp"]
 sheet.append_row(headers_row)
 
 

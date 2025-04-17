@@ -24,11 +24,11 @@ from oauth2client.service_account import ServiceAccountCredentials
 load_dotenv()
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
-CREDENTIALS_JSON = os.getenv("GOOGLE_CREDENTIALS_JSON_bita-projects")
+CREDENTIALS_JSON = os.getenv("GOOGLE_CREDENTIALS_JSON")
 
 search_term = "data engineer"
 geo_id = "103366113" # Vancouver, British Columbia, Canada
-RESULT_LIMIT = 200
+RESULT_LIMIT = 1000
 
 # -----------------------------
 # Build guest jobs API URL
