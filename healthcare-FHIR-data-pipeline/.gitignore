@@ -14,8 +14,8 @@ __pycache__/
 /data/output/*.sqlite3
 
 # 📄 Generated files
-*.png
-*.pdf
+#*.png
+#*.pdf
 
 # 💻 OS files
 .DS_Store
