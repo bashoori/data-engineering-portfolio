@@ -137,11 +137,9 @@ SELECT * FROM encounters ORDER BY "Start Time" DESC LIMIT 5;
 
 ## 📘 Visual Diagram
 
-![FHIR Pipeline](./fhir_pipeline_diagram.png)
-
 🔗 Live Demos (Codespaces Preview Links)  
 - Basic Dashboard: [Streamlit App #1](https://probable-carnival-7wwr7r9xv9j2vgv-8501.app.github.dev/)  
-- Dashboard with Filters: [Streamlit App #2](https://probable-carnival-7wwr7r9xv9j2vgv-8502.app.github.dev/)
+- Dashboard with Filters: [Streamlit App #2](https://probable-carnival-7wwr7r9xv9j2vgv-8502.app.github.dev/) (./images/dashboard1.png)
 ---
 
 ## 👩‍💻 Author
