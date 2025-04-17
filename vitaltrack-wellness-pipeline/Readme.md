@@ -105,14 +105,8 @@ vitaltrack-wellness-pipeline/
 ├── README.md
 ```
 
----
+## 👩‍💻 Author
 
-## ✨ Showcase It
-
-- Upload to GitHub as a polished folder
-- Mention in interviews or LinkedIn:  
-  > "I built a mock wellness app pipeline called VitalTrack, showing SQL windowing, JSON parsing, and DAG logic"
-
----
-
-Would you like help building a dashboard or adding sample data to this?
+**Bita Ashoori**  
+Freelance & Enterprise Data Engineer  
+📫 [LinkedIn](https://www.linkedin.com/in/bashoori) • 🌐 [GitHub Portfolio](https://github.com/bashoori)
