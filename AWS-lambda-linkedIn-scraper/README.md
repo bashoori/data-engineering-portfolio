@@ -1,82 +1,107 @@
-## 🚀 LinkedIn Job Scraper Pipeline (AWS Lambda)
+# 📦 AWS Lambda LinkedIn Job Scraper
 
-This project deploys a serverless pipeline that scrapes job listings from LinkedIn, uploads the data to S3, logs metadata in DynamoDB, and sends SNS notifications — all using AWS Free Tier services.
+Scrapes Data Engineer job listings from LinkedIn, filters results, stores data in S3, logs metadata to DynamoDB, and sends alerts using Amazon SNS.
 
 ---
 
-### 🛠 Project Structure
+## 🚀 Project Overview
+
+**Title**: AWS Lambda: LinkedIn Data Engineer Job Scraper → S3 + DynamoDB + SNS  
+**Author**: Bita Ashoori  
+**Category**: Cloud-Based ETL Pipeline  
+
+### 🔍 What it Does
+
+This Lambda function performs the following:
+
+1. Scrapes **public LinkedIn job listings** from the guest search endpoint (no login required).
+2. Filters listings for those with **"Data Engineer"** in the title and **"Vancouver"** in the location.
+3. Saves job metadata (title, company, location, link, timestamp) into a **CSV file**.
+4. Uploads the file to a structured folder in **Amazon S3**.
+5. Logs job run details (filename, timestamp, record count) into a **DynamoDB table**.
+6. Sends **success or error notifications** via **SNS (Amazon Simple Notification Service)**.
+
+---
+
+## 🧪 Technologies Used
+
+| Tech | Purpose |
+|------|---------|
+| **AWS Lambda** | Run the scraper code without managing servers |
+| **S3** | Store output CSVs in `linkedin/` folder |
+| **DynamoDB** | Log each run for history and monitoring |
+| **SNS** | Alert via email on success/failure |
+| **BeautifulSoup** | Parse LinkedIn HTML |
+| **boto3** | Interact with AWS services |
+| **requests** | Perform HTTP calls to LinkedIn guest API |
+
+---
+
+## ⚙️ Environment Variables
+
+Set these in Lambda console or use `.env` locally:
+
+```bash
+AWS_REGION=us-west-2
+S3_BUCKET_NAME=bashoori-s3
+DYNAMODB_TABLE=JobScraperLogs
+SNS_TOPIC_ARN=arn:aws:sns:us-west-2:xxxxxxx:LinkedInJobAlerts
 ```
-.
-├── lambda/
-│   └── handler.py             # Lambda entry point
-├── lambda_layer/              # Temporary folder for packaging
-├── sns_setup.py               # One-time setup: Create SNS topic + subscribe
-├── dynamodb_setup.py          # One-time setup: Create DynamoDB table
-├── requirements.txt           # Dependencies
-├── .env.example               # Template for environment variables
-├── .gitignore                 # Ignore sensitive and build files
-└── .github/workflows/
-    └── deploy-lambda.yml      # GitHub Actions deploy script
+
+---
+
+## 🔐 Required IAM Permissions
+
+```json
+{
+  "Effect": "Allow",
+  "Action": [
+    "s3:PutObject",
+    "dynamodb:PutItem",
+    "sns:Publish"
+  ],
+  "Resource": "*"
+}
 ```
 
 ---
 
-### 🧪 Local Setup
-1. Clone the repo
-2. Rename `.env.example` → `.env` and fill in credentials
-3. Run setup scripts:
+## 📄 Output Example (CSV)
+
+```
+Title,Company,Location,Link,Timestamp
+Data Engineer,Amazon,Vancouver,https://www.linkedin.com/jobs/view/...,2025-04-18 12:01:30
+```
+
+---
+
+## 🛠 Deployment Steps
+
+1. Clone this repo and install dependencies:
    ```bash
-   python dynamodb_setup.py
-   python sns_setup.py
+   pip install -r requirements.txt
    ```
-4. Test your handler:
+2. Zip `lambda/` folder including dependencies for Lambda:
    ```bash
-   python lambda/handler.py
+   zip -r linkedin_scraper_lambda.zip lambda/
    ```
+3. Upload to AWS Lambda console or deploy via GitHub Actions.
+4. Set the environment variables.
+5. (Optional) Schedule it via **EventBridge** to run daily.
 
 ---
 
-### 🚀 GitHub Actions: Auto Deployment
-This repo includes a GitHub Actions workflow that packages your Lambda and deploys it when triggered manually.
+## ✅ Status
 
-#### ✅ Prerequisites:
-- Set GitHub Secrets:
-  - `AWS_ACCESS_KEY_ID`
-  - `AWS_SECRET_ACCESS_KEY`
-
-#### ▶️ To Deploy:
-- Go to **GitHub → Actions → Deploy Lambda → Run Workflow**
+- [x] Successfully tested with Vancouver job listings
+- [x] CSV uploaded to S3
+- [x] Logs saved to DynamoDB
+- [x] SNS alerts enabled and functional
 
 ---
 
-### 🗓 Optional: Automate with EventBridge
-You can automate the Lambda to run daily:
-1. Go to AWS Console → Amazon EventBridge
-2. Create a new rule with a schedule (e.g., every 24 hours)
-3. Target → Lambda function → `linkedin-job-scraper`
+## 📬 Fork & Customize
+
+Feel free to fork this repo, update it with your own search terms or regions, and make it part of your own data engineering portfolio. ⭐
 
 ---
-
-### ✅ AWS Services Used (Free Tier)
-- **S3** – Data storage
-- **DynamoDB** – Logging run history
-- **SNS** – Email notifications
-- **Lambda** – Core scraper
-- **EventBridge** – Daily automation
-
----
-
-### 📧 Output
-- CSV files in S3 (`linkedin/YYYYMMDD_HHMM.csv`)
-- Logs in DynamoDB (`JobScraperLogs`)
-- Alert email when job list is uploaded
-
----
-
-### 📌 License
-MIT License — free to use, modify, and distribute.
-
----
-
-### 🙋‍♀️ Author
-Made by Bita — Data Engineer & Cloud Enthusiast
