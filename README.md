@@ -1,51 +1,73 @@
-# 📁 Data Engineering Portfolio  
+# 🚀 Data Engineering Portfolio 
 
-Welcome to my data engineering portfolio! This repository showcases real-world, hands-on projects I've built to strengthen my skills and demonstrate my experience in automation, pipeline orchestration, data scraping, cloud integration, and API-based workflows.
+Welcome to my Data Engineering Portfolio — a collection of real-world, cloud-native projects that demonstrate my skills in data pipelines, cloud architecture, automation, and analytics.
 
-Each project includes detailed documentation, source code, and optional GitHub Actions for automation. These are designed to solve real business problems and simulate enterprise-level workflows.
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [LinkedIn Job Scraper](./linkedin-job-scraper/)
-**Goal:** Scrape job listings from LinkedIn (via Guest API), send new results to Google Sheets, and notify via Telegram.  
-**Stack:** Python, BeautifulSoup, Gspread, Telegram API, GitHub Actions  
-**Use Case:** Track job postings for "Data Engineer" roles in Vancouver in real-time.
+I’m a Data Engineer with 6+ years of experience across enterprise environments and freelance projects, specializing in Python, SQL, AWS, Airflow, and end-to-end data workflows. These projects highlight my passion for scalable infrastructure, automation, and delivering insights through clean data systems.
 
 ---
 
-### 🔹 [eBay Product Tracker](./ebay-product-tracker/)
-**Goal:** Monitor eBay listings by keyword, track prices, and send updates to Google Sheets + Telegram.  
-**Stack:** Python, Gspread, Requests, Telegram Bot API  
-**Use Case:** Automatically alert users of new product deals for specific search terms.
+## 📂 Projects
+
+### 🏥 [Healthcare FHIR Data Pipeline](./healthcare-FHIR-data-pipeline/)
+**Tech:** Python • SQLite • BigQuery • Streamlit • GitHub Actions  
+**Summary:**  
+Simulates and processes healthcare data using FHIR standard. Parses patient, encounter, condition, and observation data from JSON, loads into SQLite and BigQuery, and visualizes insights using Streamlit.
+
+- ✅ Simulated FHIR data via [Synthea](https://github.com/synthetichealth/synthea)
+- ✅ Parsed JSON into normalized CSVs using Python
+- ✅ Loaded into SQLite and BigQuery
+- ✅ Created dashboards with Streamlit
+- ✅ CI/CD with GitHub Actions
+
+📎 [Live Streamlit Demo – Patients](https://probable-carnival-7wwr7r9xv9j2vgv-8501.app.github.dev/)  
+📎 [Live Streamlit Demo – Conditions](https://probable-carnival-7wwr7r9xv9j2vgv-8502.app.github.dev/)  
 
 ---
 
-### 🔹 [Healthcare FHIR Data Pipeline](./healthcare-fhir-data-pipeline/)
-**Goal:** Simulate a healthcare data pipeline using FHIR-formatted patient records. Load into BigQuery or SQLite and visualize insights.  
-**Stack:** Python, Pandas, FHIR JSON, BigQuery, Airflow (optional), Looker Studio  
-**Use Case:** Demonstrates working with structured healthcare data using HL7/FHIR standards.
+### ☁️ [AWS Lambda Job Scraper](./AWS-lambda-linkedIn-scraper/)
+**Tech:** Python • AWS Lambda • S3 • DynamoDB • SNS • EventBridge  
+**Summary:**  
+Scrapes LinkedIn guest search results for "Data Engineer" jobs in Vancouver. Saves job listings to S3, logs metadata to DynamoDB, and sends notifications via SNS.
+
+- ✅ Runs serverless on AWS Lambda
+- ✅ Parses job listings using BeautifulSoup
+- ✅ Stores CSV files to S3 (Free Tier)
+- ✅ Logs job scrape metadata to DynamoDB
+- ✅ Sends email alerts via SNS
+- ✅ Scheduled via EventBridge
+
+📎 [Lambda Function Setup Guide](./AWS-lambda-linkedIn-scraper/lambda/README.md)
 
 ---
 
-## 🧠 Skills Highlighted
+### 🛍️ [eBay to Google Sheets & Telegram](./Upwork-Projects/eBay-Product-Scraper/)
+**Tech:** Python • gspread • Telegram API • BeautifulSoup  
+**Summary:**  
+Scrapes eBay search results, extracts top product info, appends to a Google Sheet, and sends a summary via Telegram.
 
-- **Languages:** Python (ETL, data cleaning, automation), SQL, Bash
-- **Data Tools:** Apache Airflow, SSIS, Gspread, Pandas, SQLite, Plotly
-- **Cloud:** AWS (Redshift, S3), GCP (BigQuery, Dataflow)
-- **APIs:** Telegram, LinkedIn Guest Search, Google Sheets API
-- **Automation:** GitHub Actions, Telegram Bot
-- **Visualization:** Looker Studio, Tableau (basic), Streamlit (optional)
-- **Standards:** FHIR, ETL/ELT, CI/CD
-
----
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/bashoori)
-- 🛠️ [GitHub Projects](https://github.com/bashoori)
+- ✅ Uses Google Sheets API with OAuth
+- ✅ Telegram bot alert on new items
+- ✅ Deduplicates and timestamps entries
+- ✅ Includes configurable search limit and sort options
 
 ---
 
-### ✨ This portfolio is always evolving. Stay tuned for new additions in data streaming, real-time analytics, and ML pipelines!
+## 🧠 Skills Demonstrated
+
+- Cloud & Big Data: AWS (Lambda, S3, DynamoDB, Redshift, Glue), Google BigQuery  
+- Programming: Python, SQL, Shell scripting  
+- Automation: Apache Airflow, GitHub Actions, EventBridge  
+- ETL Pipelines: API ingestion, FHIR data parsing, batch and stream processing  
+- Dashboards: Streamlit, Looker Studio  
+- Communication: GitHub documentation, SNS alerts, Confluence-style notes
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bashoori/)
+- 🗂️ [More Projects Coming Soon!]
+
+---
+
+> ✨ *Built with love, cloud, and curiosity.*  
