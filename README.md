@@ -109,4 +109,17 @@ python scripts/patients_parser.py
 
 ---
 
+
+## 🛠️ Fork & Customize
+
+Interested in using this portfolio for your own learning or job search?
+
+1. **Fork this repository** to your GitHub profile
+2. Update the README and add your own projects
+3. Add your GitHub link to your resume and LinkedIn
+
+If you found this helpful, feel free to ⭐️ the repo!
+
+---
+
 > ✨ *Built with curiosity, cloud, and clean code.*
