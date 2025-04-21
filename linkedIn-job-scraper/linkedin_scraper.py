@@ -5,7 +5,7 @@ This version uses LinkedIn's public HTML endpoint to fetch job listings without 
 It pulls job cards directly for "Data Engineer" roles in Vancouver, writes them to Google Sheets,
 and sends a Telegram summary.
 
-Author: Your Name
+Author: Bita
 """
 
 import requests
