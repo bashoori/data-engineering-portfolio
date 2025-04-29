@@ -1,0 +1,292 @@
+Condition ID,Subject Reference,Clinical Status,Verification Status,Condition,Onset Date
+068dcafb-2696-7a22-2696-2ae51a98e8ac,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Medication review due (situation),2015-12-04T18:01:50+00:00
+bb8f00ca-96cc-3638-b6ae-0270a413141c,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Gingivitis (disorder),2015-12-04T18:38:05+00:00
+fe405a4e-624a-719a-d571-0a5692c75767,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Risk activity involvement (finding),2016-12-09T19:46:11+00:00
+6c9d9049-a77f-1545-4057-bbd7f6ead85b,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Medication review due (situation),2018-04-27T18:01:50+00:00
+3d1984e1-c0a8-3445-f293-9f7f7bbd7f92,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Gingivitis (disorder),2018-04-27T19:36:09+00:00
+8be32eee-e0ce-f576-b8f6-edc84de39f52,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Acute bronchitis (disorder),2018-05-04T18:01:50+00:00
+15a61fd1-6a22-93da-6b59-2b20c4c47447,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Acute infective cystitis (disorder),2018-07-09T18:01:50+00:00
+3594afe1-e20e-d90c-590c-aec73a17b047,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Chronic pain (finding),2018-11-25T18:01:50+00:00
+3724b550-52f9-05c1-83ea-6c98f11596b8,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Chronic low back pain (finding),2018-11-25T18:01:50+00:00
+5bed3ce8-300a-d44f-b3a2-da14f61993e8,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Medication review due (situation),2018-12-21T18:01:50+00:00
+d3ae346a-5116-6b5a-51f4-acc9d2f2a6da,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Only received primary school education (finding),2018-12-21T19:01:34+00:00
+1dfd3ad2-6ee2-8d1c-a671-492088ee2b17,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Full-time employment (finding),2018-12-21T19:01:34+00:00
+76de5591-2df7-9066-1af5-fc0900f0505f,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Limited social contact (finding),2018-12-21T19:01:34+00:00
+71d26e9c-59b3-7579-6695-55bc4ff97b09,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Gingivitis (disorder),2018-12-21T20:06:37+00:00
+a98d02cf-55c6-9e3d-f036-a3c84ee04ef7,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Loose dental filling (finding),2019-01-11T20:58:52+00:00
+a0d72523-bb0c-12a8-da66-0f97cc063d0f,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Social isolation (finding),2019-12-27T18:32:55+00:00
+2140d92f-0e5a-f63f-ab06-c7e0cefb130d,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Stress (finding),2019-12-27T18:32:55+00:00
+f75cf2ff-d989-6130-44a4-a9799897599a,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Gingivitis (disorder),2019-12-27T19:31:32+00:00
+aa54f1ec-4c7a-f62d-fc25-77ad2196a697,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Part-time employment (finding),2022-01-07T18:58:13+00:00
+722beaa7-c2a9-d7b7-1551-e9cf97fc944a,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Stress (finding),2022-01-07T18:58:13+00:00
+8c087952-1177-4896-6386-1b96e267b5b8,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Medication review due (situation),2023-01-13T18:01:50+00:00
+185a4789-e3d4-c10a-9ba7-de92c3a71bc4,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Unemployed (finding),2023-01-13T18:40:14+00:00
+6af30aba-e76d-3238-3c5a-a6f7510d7679,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Social isolation (finding),2023-01-13T18:40:14+00:00
+9c2f05a5-a7d7-8482-cc6a-212f5b80e492,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Gingival disease (disorder),2023-01-27T21:09:33+00:00
+09bb95c2-9403-adfa-f746-e80314b768a7,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Full-time employment (finding),2024-01-19T18:36:49+00:00
+3f614667-5c84-ea2d-bec5-224a0022ca57,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Stress (finding),2024-01-19T18:36:49+00:00
+bb0c95e6-966a-3623-05bc-10325773df3a,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Medication review due (situation),2025-01-24T18:01:50+00:00
+074010bf-97b9-8456-2413-45b5a7e77c2e,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,,,Victim of intimate partner abuse (finding),2025-01-24T18:57:47+00:00
+85446969-7a7f-46c3-8ca7-ebc30b55132a,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Educated to high school level (finding),1980-05-03T15:50:07+00:00
+a076f137-1b81-979f-03a5-3b8698027043,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Prediabetes (finding),1981-05-09T14:52:20+00:00
+367ec79e-161d-bb2e-c2e9-6c79739afe00,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Anemia (disorder),1981-05-09T14:52:20+00:00
+0cf7d92f-c4af-f807-c450-6c076963c901,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Body mass index 30+ - obesity (finding),2004-03-20T14:52:20+00:00
+0a1d03be-4f8c-de12-c356-9a437c282562,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Victim of intimate partner abuse (finding),2012-03-10T16:05:38+00:00
+1728be30-fe7b-3ea8-1f80-5de2a985ab15,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Unemployed (finding),2015-03-28T15:34:27+00:00
+b69af432-cfde-e262-36f1-944b9b8edae1,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Stress (finding),2015-03-28T15:34:27+00:00
+29d9ed5d-c1de-cc6d-fac0-384f531f047b,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2016-04-02T14:52:20+00:00
+9b672d03-e244-a425-e1b6-129b17955e0b,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Full-time employment (finding),2016-04-02T15:40:46+00:00
+68067278-cbbd-8058-0f9f-16a0b94e1b59,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Gingivitis (disorder),2016-04-02T16:59:38+00:00
+22bf3e88-403b-f77b-4378-824ac312d393,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Homeless (finding),2017-02-24T14:52:20+00:00
+14bf8d27-86ee-1d69-96ab-e817309f66d6,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2018-04-14T14:52:20+00:00
+62124588-2cb3-9535-e0f7-02d1327ee538,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Metabolic syndrome X (disorder),2018-04-14T14:52:20+00:00
+06fbab0b-53cc-f997-3173-79625102022d,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Diabetes mellitus type 2 (disorder),2018-04-14T14:52:20+00:00
+096f00e1-6f78-f466-2877-dc7035c9380e,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Limited social contact (finding),2018-04-14T15:44:52+00:00
+7e493f6f-2665-c5f1-6757-05670015b75c,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Severe anxiety (panic) (finding),2018-04-14T16:09:47+00:00
+23559ede-a7fa-37f4-27f2-5c56154e423c,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Fractured dental filling (finding),2018-04-28T17:43:19+00:00
+86a53559-5412-226e-0838-86c03bfde882,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2019-04-20T14:52:20+00:00
+35bb6c8e-3681-119f-6023-5da93ba4bfe1,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Hypertriglyceridemia (disorder),2019-04-20T14:52:20+00:00
+513ecd62-553a-13e7-cf9d-165afe7e9adf,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Stress (finding),2019-04-20T15:29:47+00:00
+392aad66-ba67-b9b2-611a-60b4e9528709,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Gingivitis (disorder),2019-04-20T17:22:18+00:00
+76b875f8-6c18-4261-cfcf-cc624b401503,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2020-04-25T14:52:20+00:00
+057a686d-2c34-1c95-143d-69f01484eff1,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Part-time employment (finding),2020-04-25T15:23:25+00:00
+f21d3f8c-4ef5-3ca6-2d6e-85eaf699957b,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Gingivitis (disorder),2020-04-25T16:32:53+00:00
+92efd034-402b-79af-1b3e-d87a5d83348d,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Infection of tooth (disorder),2020-05-09T16:59:30+00:00
+6b16556a-6e9f-ca27-e791-7d17fa8670fb,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Sleep disorder (disorder),2021-02-23T14:52:20+00:00
+372e2897-71ca-39d7-80da-8de1b9a357cd,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Obstructive sleep apnea syndrome (disorder),2021-03-19T23:41:46+00:00
+67fbaf52-7ced-fb42-bc1a-4fea7ab6b4a7,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2021-05-01T14:52:20+00:00
+3a0378fb-0a2a-9386-186b-45124c9afa72,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Essential hypertension (disorder),2022-05-07T14:52:20+00:00
+449102dd-aa4f-a111-3f44-ecfa6dab6e68,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2022-05-07T14:52:20+00:00
+1eb5c9c9-1c3b-c918-f476-00b342bea82e,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Gingivitis (disorder),2022-05-07T17:09:51+00:00
+879ed2e5-346e-820e-a08e-eb5261ab7e1c,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Viral sinusitis (disorder),2023-02-03T15:52:20+00:00
+aaf9b006-4346-aa59-4940-aba7537aa74e,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Full-time employment (finding),2023-05-13T15:37:37+00:00
+e92382a0-1653-dfde-4715-31ed5dce4f88,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Acute infective cystitis (disorder),2023-12-06T14:52:20+00:00
+767502e2-12a5-fd02-f4bb-ec66b69defe8,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Medication review due (situation),2024-05-18T14:52:20+00:00
+5d14fa51-62ad-f9ea-e146-c2f7d1e6aadd,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Neuropathy due to type 2 diabetes mellitus (disorder),2024-05-18T14:52:20+00:00
+3b646411-d4ca-a3be-f01b-a4d80cbde59a,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Part-time employment (finding),2024-05-18T15:42:41+00:00
+97279b3d-4638-4614-0eda-fa454c2b2608,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,,,Acute viral pharyngitis (disorder),2025-02-21T02:52:20+00:00
+e2c0c304-ca06-b2e5-2580-8783f4d04e4b,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Risk activity involvement (finding),2004-08-21T14:30:08+00:00
+a0fe54a1-a09c-65a1-fa58-4c4d34e2b0b6,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Educated to high school level (finding),2006-09-02T14:03:30+00:00
+843d7566-99e6-caf1-629b-86a7a9a08f6d,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Has a criminal record (finding),2006-09-02T14:03:30+00:00
+f1dcccb1-a099-f920-fb9c-d56c28ef6c43,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2007-09-08T13:16:31+00:00
+70fb2c3e-3c38-3474-0046-6f537d121047,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Body mass index 30+ - obesity (finding),2013-09-14T13:16:31+00:00
+7660f9b6-f15c-a1ad-ad41-79853d21bc01,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Chronic pain (finding),2014-02-03T13:16:31+00:00
+5b867721-38c7-d4d2-9ca2-882380bb10bc,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Chronic neck pain (finding),2014-02-03T13:16:31+00:00
+99fb5f37-a2e6-9554-6cb9-62e4c6ec16ac,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,History of tubal ligation (situation),2014-05-18T16:25:48+00:00
+1c1819fd-44d1-671a-f8aa-cd70f60df2c9,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Part-time employment (finding),2014-09-20T13:50:17+00:00
+400e5799-b845-802f-93a9-8d4917078320,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Stress (finding),2014-09-20T13:50:17+00:00
+98b249aa-5403-cdeb-3e3b-73b92eab7273,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Full-time employment (finding),2015-09-26T13:57:45+00:00
+6dba353c-baac-446c-a2c8-3ce661400e6c,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Gingivitis (disorder),2015-09-26T14:59:09+00:00
+c25b6e40-4c43-e8a0-e115-40f153336a17,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Viral sinusitis (disorder),2016-07-14T06:16:31+00:00
+02c0bdef-e7bf-3a01-290f-0f6b4656f1b2,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2016-10-01T13:16:31+00:00
+966549bc-5c0b-f8e4-20d6-6cf08fda79b6,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2017-10-07T13:16:31+00:00
+faaf098d-4d56-a616-362e-0980a09cc215,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Part-time employment (finding),2017-10-07T14:02:51+00:00
+df8a9d98-03db-8769-26d7-600df8df2681,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2018-10-13T13:16:31+00:00
+a68cc7e9-b2cd-91da-46b6-0338b318c45e,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Full-time employment (finding),2018-10-13T13:48:32+00:00
+26a41f82-2efc-45bc-8015-3911c18ff9c4,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Gingivitis (disorder),2018-10-13T16:08:18+00:00
+c22e9d92-9832-6f24-553b-727063d9aaf9,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Not in labor force (finding),2019-10-19T14:05:31+00:00
+837759c3-a0c9-132e-85fe-7415ea185eee,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Acute bacterial sinusitis (disorder),2020-01-22T07:16:31+00:00
+72683908-80f3-9a36-918c-31ee005812c3,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2020-10-24T13:16:31+00:00
+8c4007b4-288b-4a0e-4cff-1dba11aff888,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Part-time employment (finding),2020-10-24T13:53:34+00:00
+2e9604bb-1dad-5a8d-5d84-92927c0320c9,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Full-time employment (finding),2021-10-30T14:08:50+00:00
+7f6b0379-da8f-1cee-e2fe-fd038a6be1e2,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2022-11-05T13:16:31+00:00
+02d085f0-4e2d-202c-d4e7-5b8805acf6ad,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Gingivitis (disorder),2022-11-05T15:43:02+00:00
+5a648e93-6c98-957e-b3dd-8964da053ef5,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Medication review due (situation),2023-11-11T13:16:31+00:00
+85da00de-04fa-849b-0621-04aefe45844d,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Limited social contact (finding),2023-11-11T13:56:48+00:00
+da8f0b60-2f03-941b-5acd-68f9e01211ed,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Stress (finding),2023-11-11T13:56:48+00:00
+070a6e7f-4c57-3bfd-8e5a-02ab7bc8ffa6,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Injury of neck (disorder),2024-08-12T13:45:48+00:00
+8e5f4422-1f60-4305-5ca7-42c98193594f,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Whiplash injury to neck (disorder),2024-08-12T13:45:48+00:00
+d0ecc857-2f97-a8fc-f3a7-ec4706b2f530,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,,,Part-time employment (finding),2024-11-16T14:06:09+00:00
+a54cc77d-b04a-47a0-54a3-8bf918c5a890,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Risk activity involvement (finding),2003-02-02T21:48:12+00:00
+fa33cf0b-8af4-17d4-61a6-ba19ceb9199d,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Mitral valve regurgitation (disorder),2004-11-05T20:33:27+00:00
+f07275a0-a26c-c67d-ddd2-93ee5a7e297b,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Housing unsatisfactory (finding),2005-02-13T21:08:06+00:00
+6dfac99d-a437-39b0-dd9b-7c9ea33c7549,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Educated to high school level (finding),2005-02-13T21:08:06+00:00
+1bd3b155-45de-5d5e-118e-96c4213afc3d,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Prediabetes (finding),2007-08-19T20:33:27+00:00
+d48038b0-e0dc-03f5-a362-32515aade8d8,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Anemia (disorder),2009-02-22T20:33:27+00:00
+9fb286da-9cda-07d4-7d15-2560b3633bd1,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Misuses drugs (finding),2009-02-22T21:43:53+00:00
+9abbabba-9aa0-bfb6-48f4-a48ba56a4fdd,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Medication review due (situation),2012-07-29T20:33:27+00:00
+3c0181d8-93a2-a8d4-fb9d-e10cda742d05,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Full-time employment (finding),2012-07-29T21:22:40+00:00
+638b388c-70fe-d799-cbd4-dfa6a11fa7d9,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Chronic pain (finding),2014-02-04T20:33:27+00:00
+715e98d4-a62e-076a-e538-6541390920b2,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Chronic low back pain (finding),2014-02-04T20:33:27+00:00
+a0b66a57-99d2-6dbf-aca3-b3c007d6487b,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Fibromyalgia (disorder),2014-02-04T20:33:27+00:00
+4d2f5b01-e0a9-59ac-bf05-6a9870dd06da,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Body mass index 30+ - obesity (finding),2014-02-16T20:33:27+00:00
+6840c9ed-fded-325e-8e30-74aab499d05c,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Stress (finding),2015-02-22T21:19:44+00:00
+4de0cbf7-f5b7-ee6e-ac18-06bb6b1fa51c,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Has a criminal record (finding),2015-02-22T21:19:44+00:00
+42b08c09-702a-d58a-d158-2424b860d655,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Not in labor force (finding),2016-02-28T21:17:33+00:00
+244f0cc9-9d1e-7c36-ab12-726ce1890da0,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Gingivitis (disorder),2016-02-28T23:46:00+00:00
+84ec2466-387c-5762-aceb-573ec154e388,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Medication review due (situation),2017-03-05T20:33:27+00:00
+3ca80801-d454-5a4a-94d3-295293c48bd1,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Part-time employment (finding),2017-03-05T21:30:06+00:00
+f316383c-fd31-ada9-2da2-be617aec935a,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Primary dental caries (disorder),2017-03-19T22:55:23+00:00
+2d6ef0bc-f6f5-af7e-687b-559381064f74,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Viral sinusitis (disorder),2017-08-12T19:33:27+00:00
+2d6b8824-2059-70bb-9fba-c19f50e46ba5,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Medication review due (situation),2018-03-11T20:33:27+00:00
+6abd8b75-49eb-f8ca-c741-ba3dad2bba7e,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Full-time employment (finding),2018-03-11T21:06:05+00:00
+42e92080-3a24-6540-0a4e-f5a1f07ce54c,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Social isolation (finding),2018-03-11T21:06:05+00:00
+35942431-b475-bcbf-9462-1f3b06eb0860,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Victim of intimate partner abuse (finding),2018-03-11T21:06:05+00:00
+dbf0fce7-cc3c-d5ce-941a-478abc6bfcad,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Reports of violence in the environment (finding),2019-03-17T21:04:52+00:00
+a398d2d9-d6e0-e4aa-fcc9-737dcb19bc32,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Burn injury (morphologic abnormality),2019-06-29T20:33:27+00:00
+6c706125-8c44-331c-b8a7-24b2e588be7c,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Epidermal burn of skin (disorder),2019-06-29T20:33:27+00:00
+bd0e48a9-ea30-d70b-1348-fb88a04e2fec,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Part-time employment (finding),2020-03-22T21:30:23+00:00
+806bdc63-5c0e-c2f8-2ad2-21aa00adcf2e,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Limited social contact (finding),2020-03-22T21:30:23+00:00
+9e4a9277-7455-e684-58b8-aec5b2d60e75,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Medication review due (situation),2021-03-28T20:33:27+00:00
+b7ef74ea-6277-8ac3-7f48-851b20a794a3,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Unemployed (finding),2021-03-28T21:12:07+00:00
+02d2e3a5-fbfc-2bf8-7989-deb0799e9c12,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Social isolation (finding),2021-03-28T21:12:07+00:00
+ee2b5b06-8b54-c73e-6a4a-ec65ffa58921,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Medication review due (situation),2022-04-03T20:33:27+00:00
+56a10741-305e-433d-71e4-ca9c5b937991,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Not in labor force (finding),2022-04-03T21:05:07+00:00
+5f80fa12-8a8c-a336-38a4-0d69e4804c76,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Dental filling lost (finding),2022-04-17T23:00:35+00:00
+83b80263-fa31-d266-2752-ded06a9581ad,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Full-time employment (finding),2023-04-09T21:23:02+00:00
+c7676cfc-d09f-43b7-9555-27c844d80200,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Reports of violence in the environment (finding),2023-04-09T21:23:02+00:00
+7203c82f-6419-1652-4798-9b541950a3c7,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Medication review due (situation),2024-04-14T20:33:27+00:00
+f8c09c42-2c7b-0b69-35cd-9429a777d3ae,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Stress (finding),2024-04-14T21:32:28+00:00
+689cc11e-48f9-3ed2-a911-e5cf0e88fd22,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Gingivitis (disorder),2024-04-14T21:59:15+00:00
+1ef7cb9f-55d9-9fa1-9f0f-a45a3d1ac2cc,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Acute viral pharyngitis (disorder),2025-01-11T12:33:27+00:00
+49a39bb1-19eb-0d9b-a8ac-4c4c2df46ae9,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Gingivitis (disorder),2025-01-19T22:26:14+00:00
+dfa113ea-e857-52ad-acb9-483d0b3fbc4d,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,,,Primary dental caries (disorder),2025-02-02T23:13:20+00:00
+965ef3f9-82ad-7933-aa7b-3940f279ced1,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2015-03-23T21:09:36+00:00
+89cdd54b-2185-28d6-1c4c-a6b77aeb2810,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Atopic dermatitis (disorder),2015-12-13T21:09:36+00:00
+4806f6c6-5a00-ff6d-27da-20fc88b793d4,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2016-02-29T21:09:36+00:00
+2279c457-f444-a194-0fe3-d9e2da24c7a0,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2016-05-30T21:09:36+00:00
+2471dbcc-f6b4-2e8b-1bc6-de3b8fbdd68c,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2017-08-28T21:09:36+00:00
+56a0b56f-8b83-0c4a-c63f-d966a5cf65ca,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Otitis media (disorder),2018-10-03T21:09:36+00:00
+f5df2b0b-3c46-01c9-f677-fca758cca6e9,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2019-02-25T21:09:36+00:00
+0be189b8-37b6-c16f-7ad8-2619a30c3585,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Childhood asthma (disorder),2019-11-18T21:09:36+00:00
+d857ba86-be4d-92f8-d57b-9e371f1d5bd6,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Perennial allergic rhinitis (disorder),2019-12-17T21:09:36+00:00
+2d28da10-1556-253e-3802-fbe6d969b0c4,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Acute viral pharyngitis (disorder),2021-08-23T21:09:36+00:00
+4b71fbf8-04d6-937c-6213-fac63352503c,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Acute bacterial sinusitis (disorder),2021-12-06T21:09:36+00:00
+8cdcb71e-bf60-a60e-8b3b-7de39c38dff3,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Viral sinusitis (disorder),2022-04-11T21:09:36+00:00
+61e64251-a706-01d7-d500-de5b8f7bcd13,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2023-03-20T21:09:36+00:00
+853f84d2-069f-2df7-e478-1e60124548a1,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Child attention deficit disorder (disorder),2023-09-21T21:09:36+00:00
+176ca090-bc83-4e3f-b999-b39b01a6a52b,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Gingivitis (disorder),2024-03-25T21:09:36+00:00
+b4ce1973-4c21-1846-9f7e-266b98536de8,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Laceration - injury (disorder),2025-03-01T21:09:36+00:00
+d9cc264c-4b0e-06e7-497f-eda17d7698cc,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Facial laceration (disorder),2025-03-01T21:09:36+00:00
+bee47c9b-5f67-b528-7fc4-ce9bdaabba27,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Medication review due (situation),2025-03-31T21:09:36+00:00
+6541719d-b7fc-b566-a3e2-8c90b0ae3862,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,,,Gingivitis (disorder),2025-03-31T21:09:36+00:00
+5e939bf8-17ad-0651-d802-daf52412dfa8,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Chronic sinusitis (disorder),1967-11-30T05:49:01+00:00
+a06857b8-f9f2-0135-842f-f1cd809f8a8a,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Received higher education (finding),1977-07-22T19:31:52+00:00
+350d4a68-6d8f-6484-a407-6e3d6bf328e0,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Prediabetes (finding),1978-07-28T18:49:01+00:00
+0c0a02dc-aaef-a451-0228-d06e3473e2da,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Anemia (disorder),1978-07-28T18:49:01+00:00
+12285c46-53d9-f84e-10b7-54c5570fbd30,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Sepsis (disorder),1979-07-06T18:49:01+00:00
+f8b44e0a-2e4c-97aa-9282-63e1e08ba974,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Septic shock (disorder),1979-07-06T19:19:01+00:00
+3fe89d8b-0933-9585-7baa-f0e9890eedc7,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Body mass index 30+ - obesity (finding),1996-08-16T18:49:01+00:00
+1da3ea35-5812-c9d4-8055-1f9f88fc350a,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Malignant neoplasm of breast (disorder),1998-06-05T20:09:49+00:00
+6eaaf020-c5e6-905e-04ff-a73f30e28ebe,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Osteoarthritis of hip (disorder),2001-09-05T18:49:01+00:00
+9810d8cc-5c48-0649-e0cd-954e1f44c48b,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Past pregnancy history of miscarriage (situation),2004-06-23T18:49:01+00:00
+77cd669c-3120-60da-b1cf-0351ecbcc277,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Diabetes mellitus type 2 (disorder),2011-06-10T18:49:01+00:00
+54c4bc87-41f3-e081-cbc3-50c826194b16,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Essential hypertension (disorder),2012-06-15T18:49:01+00:00
+28e2d764-f38e-f725-3b52-d9f0d2e5bb9b,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Hypertriglyceridemia (disorder),2012-06-15T18:49:01+00:00
+d3de6876-d5a9-6eb8-6810-698cc2a94fd1,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Metabolic syndrome X (disorder),2012-06-15T18:49:01+00:00
+1edac18a-5328-0f7e-2aef-1343104727d2,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Ischemic heart disease (disorder),2013-06-21T18:49:01+00:00
+b81187da-d774-1ca0-5249-635fb0153b59,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Abnormal findings diagnostic imaging heart+coronary circulat (finding),2013-07-03T14:27:06+00:00
+3ff03ec2-8894-67e7-55bd-7cace5d6300a,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,History of coronary artery bypass grafting (situation),2013-07-16T20:06:31+00:00
+0964d799-f4dc-c7dd-cdec-4ee123974c2e,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Part-time employment (finding),2014-06-27T19:38:09+00:00
+cc9eb1e2-f30b-582c-9a0b-0be75d0891d6,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Stress (finding),2014-06-27T19:38:09+00:00
+a46d7768-a991-68e3-3394-f5481f716101,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Medication review due (situation),2015-07-03T18:49:01+00:00
+d368e0ab-cdf0-0beb-7208-ef1c784d6667,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Neuropathy due to type 2 diabetes mellitus (disorder),2015-07-03T18:49:01+00:00
+db3b1b3b-7805-1ae9-b757-9a33ea08d9d5,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Full-time employment (finding),2015-07-03T19:20:04+00:00
+808e04dd-3cf6-0037-4425-fde9cad655b2,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Limited social contact (finding),2015-07-03T19:20:04+00:00
+2843c1aa-a7fb-692a-32ee-db724990707c,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Stress (finding),2016-07-08T19:39:14+00:00
+6960384f-5935-9451-f4d5-18524f27e034,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Gingivitis (disorder),2016-07-08T21:58:21+00:00
+fddeaaaa-e9e8-e528-4a4d-5597cf9ebade,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Medication review due (situation),2016-08-05T18:49:01+00:00
+2ba6ba2c-b97b-f926-715e-f9fc5f199d4f,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Part-time employment (finding),2016-08-05T19:32:27+00:00
+06feb5ed-da98-7b5b-b5ee-e48f8ab5dfd0,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Social isolation (finding),2016-08-05T19:32:27+00:00
+e1052284-5d49-fa41-484b-1e781375c981,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Medication review due (situation),2016-08-12T18:49:01+00:00
+7afa85ce-a4b8-4e59-d4bf-733b59699e5f,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Acute bronchitis (disorder),2016-08-19T18:49:01+00:00
+c58cf9a7-f111-e81a-8f21-f209d456cb91,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Idiopathic atrophic hypothyroidism (disorder),2017-02-24T18:49:01+00:00
+bc35716b-ecf8-e63e-fedb-1c53a8b55f51,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Full-time employment (finding),2017-07-14T19:27:22+00:00
+a74cac15-2316-79e7-34cf-e9c8ed59f896,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Stress (finding),2019-07-26T19:30:36+00:00
+97802a5d-7774-9f9f-3d24-bd9608e9e245,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Social isolation (finding),2020-07-31T19:24:26+00:00
+eaad7d3e-9f9f-4e73-51a0-df53cbb6d0cb,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Part-time employment (finding),2021-08-06T19:47:43+00:00
+c28942da-abca-7f4b-dce4-018c4d8aab46,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Stress (finding),2021-08-06T19:47:43+00:00
+eb6f1aa1-fac7-2a50-e723-e8af47e1b9e9,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Full-time employment (finding),2022-08-12T19:24:03+00:00
+6bb2d58d-cae7-6c94-d2a3-e6364cefdd27,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Limited social contact (finding),2022-08-12T19:24:03+00:00
+db3c9529-62d5-99a4-4ccd-f5c8e4689432,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Victim of intimate partner abuse (finding),2022-08-12T19:24:03+00:00
+b04ff217-4244-ef51-8c60-e7a7565bb13a,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Not in labor force (finding),2023-08-18T19:26:07+00:00
+e766df91-bc48-1cf0-58a3-d1a0ccea6746,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,,,Full-time employment (finding),2024-08-23T19:27:30+00:00
+799b4366-4125-4ca3-5331-008284fe7ea2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Perennial allergic rhinitis with seasonal variation (disorder),2010-05-26T04:03:07+00:00
+d4fd32d3-26c8-704d-6edd-8cfb427e9976,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Medication review due (situation),2014-08-14T04:03:07+00:00
+1bd09ca0-51c5-6bd9-9c15-99520c7312b5,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Viral sinusitis (disorder),2016-10-20T19:03:07+00:00
+abdda569-a9b1-ace8-76b2-7a4931dc57b1,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Medication review due (situation),2019-09-12T04:03:07+00:00
+a8d9f737-4fe5-2127-1e73-9f7ea8ac1c99,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Gingivitis (disorder),2020-03-19T04:56:51+00:00
+a830660a-973b-54f0-f0c8-9ae8b36164a8,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Acute bronchitis (disorder),2020-04-16T04:03:07+00:00
+12c58cda-a611-9905-fbf9-cd0feddd0143,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Primary dental caries (disorder),2020-10-01T06:58:50+00:00
+72a2203a-0876-276f-886b-e37504d677a0,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Risk activity involvement (finding),2021-09-23T05:37:10+00:00
+a98a9b8e-6b04-1580-7d57-fd1f783e7dd0,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Medication review due (situation),2022-09-29T04:03:07+00:00
+3722e595-0a28-11db-76d6-8b5d76b658a8,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Gingivitis (disorder),2022-09-29T04:48:16+00:00
+af774da9-396f-e058-ae72-3dfc622bb36c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Infection of tooth (disorder),2022-10-13T06:01:32+00:00
+9817accc-458b-af5e-8933-eda374e5e46a,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Leaking dental filling (finding),2022-10-13T09:16:47+00:00
+382e73f7-a528-7abf-2f42-0b8d36b52605,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Medication review due (situation),2023-10-05T04:03:07+00:00
+d52ec757-83c6-800a-e2bd-7362cf480aa5,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Received higher education (finding),2023-10-05T04:39:11+00:00
+a9a4e0b8-5138-7993-89f2-b844d668eef2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Full-time employment (finding),2023-10-05T04:39:11+00:00
+58dd7a24-75a7-5cfe-29d1-1731cd59c2dc,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Asthma (disorder),2024-05-14T04:03:07+00:00
+50a5d0bf-ebd6-0fda-cf92-feee20a9f9d1,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Stress (finding),2024-10-10T04:38:32+00:00
+5352e778-bc25-9d2b-49db-f9e3142e07ce,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Medication review due (situation),2025-01-02T04:03:07+00:00
+e50ae7fd-cbbc-cb23-4d09-1673d0d31236,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Social isolation (finding),2025-01-02T04:38:05+00:00
+11b9c3f6-592f-c18a-cac0-48a78ddd7e42,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Limited social contact (finding),2025-01-16T04:49:45+00:00
+1896f632-40f9-331e-a47f-c5d02259ebaa,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Stress (finding),2025-01-16T04:49:45+00:00
+aff337f0-d811-6bec-9d44-f6df5d88981e,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,,,Acute bronchitis (disorder),2025-01-30T04:03:07+00:00
+c062a784-cbbd-c3d5-6053-459a274c55d1,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Received higher education (finding),2009-03-06T07:34:35+00:00
+75f683d3-8a60-c69c-e25c-f554792adfa0,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Full-time employment (finding),2010-03-12T07:30:54+00:00
+ec9724d2-5375-528f-54c8-851f7f8688e2,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Prediabetes (finding),2012-11-09T06:39:24+00:00
+c7b61520-72dc-f512-82d9-973da0a3ff23,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Anemia (disorder),2013-03-15T06:39:24+00:00
+d245a5a5-9cf5-6260-a1fc-466ad0bac015,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Acute viral pharyngitis (disorder),2015-09-28T15:39:24+00:00
+32972b42-f22e-dded-08c4-9727262acf72,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Medication review due (situation),2016-03-18T06:39:24+00:00
+a6a3489c-22dc-26ef-6e80-70dfdbb988ac,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Gingivitis (disorder),2016-03-18T08:56:48+00:00
+1cbcd92e-c483-afa5-8f36-a673d08cf43a,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Primary dental caries (disorder),2016-04-01T09:24:28+00:00
+d39669c1-1596-6395-6360-dbdbad99949b,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Acute bronchitis (disorder),2016-09-27T19:39:24+00:00
+75566aa0-2680-161b-d6c4-90d2b77343cc,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Unemployed (finding),2016-10-07T07:39:11+00:00
+1e163e8d-a5be-d367-147b-9aeaced96f4f,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Sinusitis (disorder),2019-02-20T13:39:24+00:00
+67417c62-864d-74cf-381b-cbeb1999affa,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Medication review due (situation),2019-03-22T06:39:24+00:00
+94176e60-a3b8-2efc-ded9-b3220d4c6926,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Full-time employment (finding),2019-03-22T07:35:54+00:00
+3f134a8d-106a-2082-201d-264f9cc6834c,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Gingivitis (disorder),2019-03-22T08:49:56+00:00
+02b15a1d-6701-c0e7-68da-5cae2ee269ee,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Chronic sinusitis (disorder),2019-05-18T13:39:24+00:00
+9efcc35f-e5d3-9759-539d-a5df93a87a7a,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Part-time employment (finding),2022-03-25T07:14:30+00:00
+a9d87355-d92d-c967-a33d-f2b45b0cd2c6,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Victim of intimate partner abuse (finding),2022-03-25T07:14:30+00:00
+65c3478a-13ac-071c-b6cc-d27402acb357,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Essential hypertension (disorder),2025-03-28T06:39:24+00:00
+3d862f9c-d6c3-bb38-6a61-571e526969f4,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,,,Social isolation (finding),2025-03-28T07:24:13+00:00
+5328f8ca-fef6-537f-2951-11f07a926800,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Only received primary school education (finding),2007-07-26T19:57:16+00:00
+3ad35da4-a780-26f2-ba28-45b7fe528443,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Medication review due (situation),2011-08-04T19:05:34+00:00
+d0f96474-1507-d877-acd7-ff3dc855d8b1,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Part-time employment (finding),2014-08-07T19:40:07+00:00
+c81940fd-e219-d440-dde1-7bdf573f1991,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Normal pregnancy (finding),2015-01-15T19:05:34+00:00
+d0827cc6-2966-8cc9-7d56-230c8de8e911,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Acute bronchitis (disorder),2015-05-24T12:05:34+00:00
+734a51bf-7a0c-b4b5-9fa3-58b819e9dfdc,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Not in labor force (finding),2015-06-04T19:45:28+00:00
+52ca297b-5ec8-9858-68e5-e02fd52abf0e,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Stress (finding),2015-06-04T19:45:28+00:00
+8511d8db-bfe1-c818-6870-0923affafe2e,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Sepsis (disorder),2015-09-08T19:05:34+00:00
+86ddff2f-1b7a-d645-d620-9b21ea7e5926,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Acute infective cystitis (disorder),2015-11-03T19:05:34+00:00
+44167985-bfdd-bbc1-5c56-8820b3b1fd97,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Acute viral pharyngitis (disorder),2016-02-09T09:05:34+00:00
+46231dd0-65d1-76ec-6858-c70db09defeb,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Viral sinusitis (disorder),2016-04-04T04:05:34+00:00
+b3800c1d-dd84-f3dc-2649-1efa67652e91,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Medication review due (situation),2017-08-10T19:05:34+00:00
+4a581363-5643-71ba-fa1b-d2d8713e0c8d,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Part-time employment (finding),2017-08-10T19:40:27+00:00
+d622a759-c9f4-4546-5768-bbfbff820de4,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Sprain (morphologic abnormality),2017-08-17T19:05:34+00:00
+a3d7bb57-7e4b-d06d-73f8-354dfa56409a,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Sprain of ankle (disorder),2017-08-17T19:05:34+00:00
+031ff0e0-a8ae-56e3-ece9-6bef8f419ebb,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Leaking dental filling (finding),2017-08-24T21:42:18+00:00
+0ce47fd8-937a-48ba-2023-1feac23dbfce,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Normal pregnancy (finding),2018-03-29T19:05:34+00:00
+48c10884-bc9d-7087-007e-c7f1edacc7eb,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Miscarriage in first trimester (disorder),2018-03-29T19:05:34+00:00
+c1c175be-6d58-4507-eb4b-0d8841951232,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Complete miscarriage (disorder),2018-03-29T19:05:34+00:00
+d86235e1-fb60-91ea-933e-5a96ab7ba1b0,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Past pregnancy history of miscarriage (situation),2018-04-15T19:05:34+00:00
+eaded8df-d3b6-199c-e350-06c14a0a4f2d,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Viral sinusitis (disorder),2018-04-22T02:05:34+00:00
+1af24545-c115-4a89-764d-88d3271dd72f,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Medication review due (situation),2020-08-13T19:05:34+00:00
+25e966a9-0662-fb15-d785-a812bf4d6455,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Full-time employment (finding),2020-08-13T19:39:33+00:00
+ebc5f537-1ff6-754f-817c-ac29b910a79f,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Normal pregnancy (finding),2020-12-03T19:05:34+00:00
+6156d5bd-9f20-a258-71bd-1ec138f31c38,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Suspected disease caused by Severe acute respiratory coronavirus 2 (situation),2021-01-16T19:05:34+00:00
+32aa3559-d217-994f-14e9-8e35113acdf7,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Cough (finding),2021-01-16T19:05:34+00:00
+82a96b57-6b6c-da0f-6a7d-871735221ed6,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Fever (finding),2021-01-16T19:05:34+00:00
+8e79d505-64d4-8a28-3dec-e7dd80bc81a0,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder),2021-01-16T19:45:55+00:00
+cde1623e-66c2-21e5-2c69-35bb08412c09,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Sleep disorder (disorder),2022-05-24T19:05:34+00:00
+2c85815c-31a0-5344-5bd4-4a7da03c59f3,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Obstructive sleep apnea syndrome (disorder),2022-06-27T03:54:27+00:00
+2c04621c-db3d-0a64-380d-852056729abc,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Normal pregnancy (finding),2023-03-16T19:05:34+00:00
+1d4d1005-251c-3690-8e79-22cdb5fd5945,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Medication review due (situation),2023-08-17T19:05:34+00:00
+b6c790a9-7598-e4ed-89ab-8c450891ab08,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Sprain (morphologic abnormality),2023-08-22T19:05:34+00:00
+1b627066-6d31-555f-de0c-9d82b1c80b42,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,,,Sprain of ankle (disorder),2023-08-22T19:05:34+00:00
+0ebe3ed2-5140-c0c4-637d-f05ff3be97c3,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Medication review due (situation),2015-08-16T23:06:55+00:00
+4fdfce67-9e88-bd5c-477d-a198f6892170,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Viral sinusitis (disorder),2017-02-15T23:06:55+00:00
+16a01ee4-99dd-ea49-274e-c32de1140c12,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Viral sinusitis (disorder),2017-04-12T20:06:55+00:00
+f2439e09-fe6a-532e-b8b4-6fa38e9759ff,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Gingivitis (disorder),2019-09-08T23:06:55+00:00
+81b42b5d-ad69-54df-7b9d-468063a26c13,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Gingival disease (disorder),2019-09-16T02:31:54+00:00
+862c185b-3de3-56d3-df8f-f892c977fe0c,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Medication review due (situation),2020-09-13T23:06:55+00:00
+3f072811-abda-ff9d-edc9-3d99a38f82ae,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Acute viral pharyngitis (disorder),2020-12-02T10:06:55+00:00
+f2dbee7b-becb-e8e1-5335-5b594caa85e9,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Viral sinusitis (disorder),2021-03-23T03:06:55+00:00
+50ebbeb4-9276-7a17-e0a8-36c7fb1e876e,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Otitis media (disorder),2022-09-10T23:06:55+00:00
+9782eb1d-0bcc-8b58-43c3-eff2dbbdc563,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Medication review due (situation),2022-09-25T23:06:55+00:00
+b4d40954-7e59-1786-60ed-a2556ed8e2dc,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Gingival disease (disorder),2022-10-10T01:47:37+00:00
+18a74298-2ea6-2902-b292-9f2fb9a760fd,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Medication review due (situation),2023-10-01T23:06:55+00:00
+1f90df68-c36a-4c43-f654-81a9fab6b008,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Gingivitis (disorder),2024-10-07T00:05:20+00:00
+2957a29e-5521-9a0b-e20b-59e5faa7366f,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,,,Infection of tooth (disorder),2024-10-21T00:25:06+00:00

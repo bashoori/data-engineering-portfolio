@@ -1,0 +1,447 @@
+Encounter ID,Subject Reference,Status,Type,Start Time,End Time
+d8c01375-1aa9-d513-ed86-dfec309a8f0c,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Well child visit (procedure),2015-12-04T18:01:50+00:00,2015-12-04T18:16:50+00:00
+fbbfa691-1473-13cf-b422-6d85eb0b371d,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for check up (procedure),2015-12-18T18:01:50+00:00,2015-12-18T21:21:39+00:00
+7d899e80-0fbe-c116-d7e5-acd0085aef34,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Consultation for treatment (procedure),2016-10-09T18:01:50+00:00,2016-10-09T18:16:50+00:00
+f16dc42d-90db-20e1-9332-97ca812a23fd,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Well child visit (procedure),2016-12-09T18:01:50+00:00,2016-12-09T18:25:37+00:00
+3988a50b-eaff-3380-358e-8a64bdb621ac,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Consultation for treatment (procedure),2017-10-04T18:01:50+00:00,2017-10-04T18:16:50+00:00
+92ecf82b-9e60-c963-0cda-0119b8dfa0da,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Well child visit (procedure),2017-12-15T18:01:50+00:00,2017-12-15T18:16:50+00:00
+7af523c0-e88a-497c-8d79-6c6d1437ea75,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for check up (procedure),2018-04-27T18:01:50+00:00,2018-04-27T18:19:57+00:00
+a8a0b54f-8308-bfff-8197-ff4ac699c0a5,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for symptom (procedure),2018-05-04T18:01:50+00:00,2018-05-04T18:16:50+00:00
+72e78378-4b96-c985-8328-faa9580876b2,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for check up (procedure),2018-05-11T18:01:50+00:00,2018-05-11T20:49:39+00:00
+b61b51df-4fe4-4c78-5032-82cd47350574,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for symptom (procedure),2018-07-09T18:01:50+00:00,2018-07-09T19:34:19+00:00
+0d5b0aba-ecff-f748-1717-5f825848682b,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Consultation for treatment (procedure),2018-09-29T18:01:50+00:00,2018-09-29T18:16:50+00:00
+f6c31038-5e04-fb4b-291a-a049cc339073,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for problem (procedure),2018-11-25T18:01:50+00:00,2018-11-25T18:16:50+00:00
+db50243c-2993-8ac0-f7d7-a5b859e64de7,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-11-28T18:01:50+00:00,2018-11-28T19:01:49+00:00
+d961709b-8c07-f759-a601-a941e1e593f4,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-01T19:01:49+00:00,2018-12-01T19:49:09+00:00
+624f4b2e-2f46-1361-24bf-34a524b690ca,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-04T19:49:09+00:00,2018-12-04T20:47:59+00:00
+5885a46b-054c-b06f-584b-a1146b836206,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-07T20:47:59+00:00,2018-12-07T21:42:12+00:00
+a836f12f-0578-0248-fd57-ad6a1f076bfb,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-10T21:42:12+00:00,2018-12-10T22:24:49+00:00
+31ead624-ee1c-49b9-69be-ee96c130d633,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-13T22:24:49+00:00,2018-12-13T23:02:03+00:00
+93d5eac8-317c-7f78-7e24-9a13242b4361,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2018-12-21T18:01:50+00:00,2018-12-21T19:01:34+00:00
+ab1fe771-46a5-7c19-873c-3ef9029ef305,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-28T18:01:50+00:00,2018-12-28T18:50:33+00:00
+409c5ee6-73f0-c365-5a2b-90f3ed1b7eba,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Patient encounter procedure (procedure),2018-12-31T18:50:33+00:00,2018-12-31T19:47:53+00:00
+3e4b115a-9502-4bb2-3f3e-89e543749191,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for check up (procedure),2019-01-11T18:01:50+00:00,2019-01-11T22:15:42+00:00
+be8a79bd-a821-b25c-2cd4-9c37ac87b466,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2019-12-27T18:01:50+00:00,2019-12-27T18:32:55+00:00
+73123dc8-7235-3b25-ddf6-1dac7352b6f4,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for check up (procedure),2020-01-10T18:01:50+00:00,2020-01-10T20:47:20+00:00
+7e1ffd68-ac8a-b72a-95a7-dd104b4a292f,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Consultation for treatment (procedure),2020-09-18T18:01:50+00:00,2020-09-18T18:16:50+00:00
+42799cd7-9896-c0a1-d903-e4ab38375f41,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2021-01-01T18:01:50+00:00,2021-01-01T18:45:58+00:00
+14a8ad11-4e9a-9283-dde2-065fdb6fbf5a,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Administration of vaccine to produce active immunity (procedure),2021-10-15T18:01:50+00:00,2021-10-15T18:16:50+00:00
+b6ff58cf-1fca-9614-9f4d-7c5cf251010b,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Administration of vaccine to produce active immunity (procedure),2021-11-05T18:01:50+00:00,2021-11-05T18:16:50+00:00
+762541e7-1ded-93b7-0834-9c90f293db4d,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2022-01-07T18:01:50+00:00,2022-01-07T18:58:13+00:00
+ec71cc14-0fea-3845-a0f3-509d9f037875,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Consultation for treatment (procedure),2022-09-08T18:01:50+00:00,2022-09-08T18:16:50+00:00
+10e9dc52-f37b-8db6-d646-79caafe674ae,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2023-01-13T18:01:50+00:00,2023-01-13T18:40:14+00:00
+1edd23ed-494c-cc25-46ba-339507750592,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,Encounter for check up (procedure),2023-01-27T18:01:50+00:00,2023-01-28T00:32:54+00:00
+7bbfdd75-1407-335d-91ce-9313da6929a3,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2024-01-19T18:01:50+00:00,2024-01-19T18:36:49+00:00
+5f939ba1-903b-dff5-c725-83a2159fd69e,urn:uuid:e9acb89d-670e-bec6-09cc-5523e9ca7795,finished,General examination of patient (procedure),2025-01-24T18:01:50+00:00,2025-01-24T18:57:47+00:00
+304cfc10-edf0-f485-8fb1-74a8f0030eb3,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),1980-05-03T14:52:20+00:00,1980-05-03T15:50:07+00:00
+8d1257ed-2f08-5b7f-60a0-5333b8c3d729,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),1981-05-09T14:52:20+00:00,1981-05-09T15:37:01+00:00
+7d1fbd1d-7221-7587-b3f0-ae1ee11d16a3,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2004-03-20T14:52:20+00:00,2004-03-20T15:30:59+00:00
+6fc38c1f-446b-e786-b0eb-fbf36fa9a270,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2012-03-10T14:52:20+00:00,2012-03-10T15:35:01+00:00
+1cd3f815-535f-0d69-d485-fcb896ba7cef,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2015-03-28T14:52:20+00:00,2015-03-28T15:34:27+00:00
+dfadebda-3aa6-d8fc-f781-e019e26266f7,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2016-04-02T14:52:20+00:00,2016-04-02T15:40:46+00:00
+f3f7528a-1ff0-1739-299c-5c7f440741a9,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2016-04-16T14:52:20+00:00,2016-04-16T17:43:57+00:00
+85ebb2f5-4893-6fa7-965a-a7b439b7de0f,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2017-03-17T15:34:24+00:00,2017-03-17T16:02:52+00:00
+afd8141d-c1e6-84cf-65d0-a4d33c30bfb3,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2017-04-08T14:52:20+00:00,2017-04-08T15:46:00+00:00
+78fc5352-ea03-c4eb-e26f-aa01f4bc93dc,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-04-25T14:52:20+00:00,2017-04-25T15:07:20+00:00
+073b0b7f-7390-6030-6ee8-b3af8a6a2fbe,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-06-24T14:52:20+00:00,2017-06-24T15:07:20+00:00
+0c7fc6fc-163a-4cf5-e54d-a87f5b4d6968,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-07-24T14:52:20+00:00,2017-07-24T15:07:20+00:00
+d86900d9-cf13-cad4-de8d-313832ae88b7,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-08-23T14:52:20+00:00,2017-08-23T15:07:20+00:00
+1005d727-4cde-ab27-864e-5d37242f766c,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-09-22T14:52:20+00:00,2017-09-22T15:07:20+00:00
+2c1bbb8f-3f14-377d-8cc0-ecd2a0b26b14,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-10-22T14:52:20+00:00,2017-10-22T15:07:20+00:00
+4c37e9bd-07b0-2f54-e22f-13a0ff82d66d,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2017-12-21T14:52:20+00:00,2017-12-21T15:07:20+00:00
+e28f7468-3b41-4183-c116-fd4955c30aa1,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2018-01-20T14:52:20+00:00,2018-01-20T15:07:20+00:00
+a08eb4e9-96bb-00fd-9d29-cbb2304492c4,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2018-03-21T14:52:20+00:00,2018-03-21T15:07:20+00:00
+a2a49e8e-12b8-1d5a-97bc-9cd9dea27b6b,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2018-04-14T14:52:20+00:00,2018-04-14T15:44:52+00:00
+eeaadd59-67ea-748b-e475-cb612c1b0e08,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2018-04-28T14:52:20+00:00,2018-04-28T19:00:58+00:00
+abef6aea-24d0-abc6-0e83-97f37491f724,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Domiciliary or rest home patient evaluation and management (procedure),2018-08-18T14:52:20+00:00,2018-08-18T15:07:20+00:00
+be1f5802-9c6e-3e9d-f3c0-0d1a1dfe0ccd,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2019-04-20T14:52:20+00:00,2019-04-20T15:29:47+00:00
+669ace33-b1ef-8882-c6b5-800e67dca23a,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2019-05-04T14:52:20+00:00,2019-05-04T17:26:24+00:00
+5b001d25-05af-82dc-a47f-2fd07b1f6d7f,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2020-04-25T14:52:20+00:00,2020-04-25T15:23:25+00:00
+429b79d0-6174-e8ae-8f7c-f05d474ed1ff,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2020-05-09T14:52:20+00:00,2020-05-09T21:32:24+00:00
+2ec06d77-9d11-ab63-650b-023bac0342e3,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Administration of vaccine to produce active immunity (procedure),2021-02-20T14:52:20+00:00,2021-02-20T15:07:20+00:00
+dc48a9bf-e6af-1c2c-ed72-045b0bf3b5b3,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for symptom (procedure),2021-02-23T14:52:20+00:00,2021-02-23T15:53:07+00:00
+1a3b2e0c-74c6-6512-6e2e-014241dd0ba2,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Administration of vaccine to produce active immunity (procedure),2021-03-20T14:52:20+00:00,2021-03-20T15:07:20+00:00
+d41c8905-a137-4170-cb15-3cbcdc897c63,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for symptom (procedure),2021-03-15T15:53:07+00:00,2021-03-15T16:34:36+00:00
+1acd9e18-879f-9f28-fe4f-e9d94fd42298,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for problem (procedure),2021-03-19T16:34:36+00:00,2021-03-20T16:34:36+00:00
+029a1d6d-7412-9801-f154-b5981cbc20b1,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2021-05-01T14:52:20+00:00,2021-05-01T15:22:34+00:00
+fd6bb992-83fd-cc88-b216-b2ade9c4b080,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2021-05-15T14:52:20+00:00,2021-05-15T17:07:21+00:00
+94a69a9b-666d-7df9-a924-a30dc6d14a78,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2022-03-17T16:02:52+00:00,2022-03-17T16:28:37+00:00
+be52fd13-634a-93a6-b0d0-e8d5d7b5d49e,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2022-05-07T14:52:20+00:00,2022-05-07T15:36:58+00:00
+9712eb02-73d9-03f6-d88f-95b94d85a51a,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2022-05-21T14:52:20+00:00,2022-05-21T17:45:04+00:00
+021b2b7e-2ca4-44c5-be13-1a989928b2cc,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Follow-up encounter (procedure),2022-06-06T14:52:20+00:00,2022-06-06T15:07:20+00:00
+317ae40d-980b-1d78-f756-6c600700df49,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Follow-up encounter (procedure),2022-08-05T14:52:20+00:00,2022-08-05T15:07:20+00:00
+8e2c82ef-0bc3-7829-311d-daf87d60eedd,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Follow-up encounter (procedure),2022-10-04T14:52:20+00:00,2022-10-04T15:07:20+00:00
+0aad48b7-bfe4-3f71-ee3c-ce6bd028e848,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for symptom (procedure),2023-02-03T15:52:20+00:00,2023-02-03T16:07:20+00:00
+690b79da-d498-670f-5e2a-8c5cc4013849,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2023-05-13T14:52:20+00:00,2023-05-13T15:37:37+00:00
+8fbd1329-d9e2-d8d7-203a-32dfb628a2a4,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for check up (procedure),2023-05-27T14:52:20+00:00,2023-05-27T18:04:37+00:00
+e2a39962-344f-054d-fbfa-08795c183942,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for symptom (procedure),2023-12-06T14:52:20+00:00,2023-12-06T16:11:28+00:00
+187686cc-772f-2066-2980-7e1c185137d2,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,General examination of patient (procedure),2024-05-18T14:52:20+00:00,2024-05-18T15:42:41+00:00
+aa7301a7-155f-796b-8128-53e688c4e27d,urn:uuid:62ca1a38-359b-8089-807f-60077761ffac,finished,Encounter for symptom (procedure),2025-02-21T02:52:20+00:00,2025-02-21T03:07:20+00:00
+868e79ef-1dde-d5f2-ee45-a480148b39fc,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Well child visit (procedure),2004-08-21T13:16:31+00:00,2004-08-21T13:31:31+00:00
+a35dc884-b7b5-f5bc-a898-0a2973a28253,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2006-09-02T13:16:31+00:00,2006-09-02T14:03:30+00:00
+82f3d830-6429-208c-31e1-d73a70a937ef,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2007-09-08T13:16:31+00:00,2007-09-08T14:00:48+00:00
+247e42c2-aa4e-c4e2-54f1-70dc3aaca2fd,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2013-09-14T13:16:31+00:00,2013-09-14T13:52:54+00:00
+3c761c1b-25f6-bab9-2d45-e24eb0bcb9ad,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for problem (procedure),2014-02-03T13:16:31+00:00,2014-02-03T13:31:31+00:00
+aa937d29-2b4d-8014-0691-5880d9878f0a,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Admission to surgical department (procedure),2014-05-18T14:04:48+00:00,2014-05-19T14:04:48+00:00
+6268dd14-1c8a-4d3a-8565-4867a44138b8,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2014-09-20T13:16:31+00:00,2014-09-20T13:50:17+00:00
+d21d5394-d226-bca1-d4d1-3e2969683281,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2015-09-26T13:16:31+00:00,2015-09-26T13:57:45+00:00
+96430613-a317-ff73-ba0e-4e6234b15fc4,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for check up (procedure),2015-10-10T13:16:31+00:00,2015-10-10T15:53:30+00:00
+81fc4f25-00d6-2e5a-da3e-c06aae8ae4a7,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for symptom (procedure),2016-07-14T06:16:31+00:00,2016-07-14T06:31:31+00:00
+ca10b1b2-3e74-bef2-fa9d-ab1222257576,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2016-10-01T13:16:31+00:00,2016-10-01T13:50:57+00:00
+fc79bc51-d2b9-c2a4-0a53-70e6065b42a7,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2017-10-07T13:16:31+00:00,2017-10-07T14:02:51+00:00
+83b3afe2-88fc-7bc9-8da3-835f2ac96647,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2018-10-13T13:16:31+00:00,2018-10-13T13:48:32+00:00
+4d8e0cce-9209-1a0a-dafc-ee8f657d6dc3,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for check up (procedure),2018-10-27T13:16:31+00:00,2018-10-27T16:15:06+00:00
+fa4f7283-14c9-30d3-c71a-02e0cb0d0272,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2019-10-19T13:16:31+00:00,2019-10-19T14:05:31+00:00
+290c1955-3854-a08c-7b8e-095a40f0be33,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for symptom (procedure),2020-01-22T07:16:31+00:00,2020-01-22T07:31:31+00:00
+a844b2fe-7040-3dc5-3794-afd6d1251ad1,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2020-10-24T13:16:31+00:00,2020-10-24T13:53:34+00:00
+a4aa2a42-3b47-5b25-427d-09baa8c4f392,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Administration of vaccine to produce active immunity (procedure),2021-10-16T13:16:31+00:00,2021-10-16T13:31:31+00:00
+f6c42cec-d7c7-a240-fff2-b33cfbc85299,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2021-10-30T13:16:31+00:00,2021-10-30T14:08:50+00:00
+c78d3a44-7ce1-4c5c-5b98-30fb08639c7d,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Administration of vaccine to produce active immunity (procedure),2021-11-13T13:16:31+00:00,2021-11-13T13:31:31+00:00
+112f48a3-0e75-a501-a7d3-a080a5723032,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for check up (procedure),2021-11-13T13:16:31+00:00,2021-11-13T17:08:25+00:00
+f2c081b9-48a1-007c-369b-cf845b65fc6d,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2022-11-05T13:16:31+00:00,2022-11-05T14:01:22+00:00
+ad9ead85-6616-4a0f-84e7-f63d22838379,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Encounter for check up (procedure),2022-11-19T13:16:31+00:00,2022-11-19T16:11:22+00:00
+bb06e234-1bab-977a-e4d4-d1bc73f92b10,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2023-11-11T13:16:31+00:00,2023-11-11T13:56:48+00:00
+2acc1d79-c6f9-b5eb-46d4-a73da2ab1b72,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Emergency room admission (procedure),2024-08-12T13:45:48+00:00,2024-08-12T14:45:48+00:00
+907788a1-730c-6bf0-dc4b-ad02496c4d82,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,Hospital admission (procedure),2024-08-12T13:45:48+00:00,2024-10-22T14:00:48+00:00
+0128b127-d331-fef1-1b8e-fd5e0500d2be,urn:uuid:29172807-1920-1a29-c069-4e766e5a8d86,finished,General examination of patient (procedure),2024-11-16T13:16:31+00:00,2024-11-16T14:06:09+00:00
+d56ae189-f03c-b609-7c61-7540808d598c,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Well child visit (procedure),2003-02-02T20:33:27+00:00,2003-02-02T20:48:27+00:00
+a0a2a1e7-1862-65e5-bd67-e242f3515651,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for problem (procedure),2004-11-05T20:33:27+00:00,2004-11-05T21:03:27+00:00
+f53dc3c4-08ea-47f6-b3dd-ab27f0fa5bf5,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2005-02-13T20:33:27+00:00,2005-02-13T21:08:06+00:00
+99e6dff2-d0d4-790f-095c-3beaf105faa5,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2007-08-19T20:33:27+00:00,2007-08-19T21:05:06+00:00
+d4f1ae0e-86f8-d487-5201-2b7ab49c7f66,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2009-02-22T20:33:27+00:00,2009-02-22T21:05:59+00:00
+d1e17e83-04ab-4810-fba5-de234f932409,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for problem (procedure),2009-03-01T20:33:27+00:00,2009-03-01T21:53:38+00:00
+2b4ade17-2f63-ef53-1c94-dbe94e210902,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2012-07-29T20:33:27+00:00,2012-07-29T21:22:40+00:00
+01380b77-181e-45c0-45e7-dfc3bd3a49c2,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for problem (procedure),2014-02-04T20:33:27+00:00,2014-02-04T20:48:27+00:00
+e3460d53-5eab-03a3-f4ce-3fa687968ad0,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2014-02-16T20:33:27+00:00,2014-02-16T21:04:21+00:00
+33b9a5b2-868e-ba2f-dfbd-d588ff6a44bd,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2015-02-22T20:33:27+00:00,2015-02-22T21:19:44+00:00
+d0ba871c-55f8-4345-aaf8-8c2934df5c0b,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2016-02-28T20:33:27+00:00,2016-02-28T21:17:33+00:00
+c733c889-437e-12bb-d486-5ca7fbb156c5,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2016-03-13T20:33:27+00:00,2016-03-13T22:54:05+00:00
+65cf7281-8a7c-339f-576d-f9ef8edf9cb3,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2017-03-05T20:33:27+00:00,2017-03-05T21:30:06+00:00
+9e2aa4ce-619d-99ef-e0ea-3e2ef7988331,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2017-03-19T20:33:27+00:00,2017-03-19T23:33:28+00:00
+a69781dc-9dd9-aa87-9c2d-b6f2e031b48b,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for symptom (procedure),2017-08-12T19:33:27+00:00,2017-08-12T19:48:27+00:00
+46983fb8-d3b4-b00c-842a-64bd9aed2ff1,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2018-03-11T20:33:27+00:00,2018-03-11T21:06:05+00:00
+cdc96b84-f0db-0abe-1459-609febf661f6,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2019-03-17T20:33:27+00:00,2019-03-17T21:04:52+00:00
+5f64cf98-2403-551b-69bd-92cbb963c968,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Emergency room admission (procedure),2019-06-29T20:33:27+00:00,2019-06-29T21:33:27+00:00
+f1dca282-0aa6-acbc-94d4-83601211a182,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Hospital admission (procedure),2019-06-29T20:33:27+00:00,2019-07-17T20:48:27+00:00
+b8939a00-0b47-b646-1845-fba6b31a196f,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2019-08-04T20:33:27+00:00,2019-08-04T20:48:27+00:00
+2cea4a14-83bf-e3c4-71ec-a5adcf412a67,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2020-03-22T20:33:27+00:00,2020-03-22T21:30:23+00:00
+0ddebd15-f8f0-fc54-e386-b4913d97980b,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2021-03-28T20:33:27+00:00,2021-03-28T21:12:07+00:00
+fcd7aa4b-9e20-2f5b-ea54-24ae6a6b8ad5,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Administration of vaccine to produce active immunity (procedure),2021-08-29T20:33:27+00:00,2021-08-29T20:48:27+00:00
+13a4ade6-8fd6-320e-8420-2dbe60ca9eb6,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Administration of vaccine to produce active immunity (procedure),2021-09-26T20:33:27+00:00,2021-09-26T20:48:27+00:00
+64fffcb0-ec73-b3fd-fa5f-f3ca501429c3,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2022-04-03T20:33:27+00:00,2022-04-03T21:05:07+00:00
+cc53da86-6d9c-3d13-ee06-71c248918ad0,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2022-04-17T20:33:27+00:00,2022-04-17T23:42:32+00:00
+75ca1b86-48b4-621a-6713-8daf65f4c82d,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2023-04-09T20:33:27+00:00,2023-04-09T21:23:02+00:00
+b6da5728-335c-e438-48c0-2043021f9bfa,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2023-04-23T20:33:27+00:00,2023-04-23T23:18:16+00:00
+2e7aa1f6-1e5e-6329-0100-0aeefc510cc9,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,General examination of patient (procedure),2024-04-14T20:33:27+00:00,2024-04-14T21:32:28+00:00
+5905dd78-7a4a-4510-5e88-e018f021ac09,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2024-04-28T20:33:27+00:00,2024-04-29T00:05:05+00:00
+0da94e13-e7a6-e790-126c-e202bb3207ce,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for symptom (procedure),2025-01-11T12:33:27+00:00,2025-01-11T12:48:27+00:00
+c41c50e8-9755-b563-ba5d-d30255438653,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2025-01-19T20:33:27+00:00,2025-01-19T21:15:59+00:00
+ff2c772d-0507-3a5b-4af4-61060a278d40,urn:uuid:382a751c-ca0e-eaa3-7bc1-1bfc0a93c45a,finished,Encounter for check up (procedure),2025-02-02T20:33:27+00:00,2025-02-03T00:07:41+00:00
+226ca0ac-5891-011e-d030-2833134ba18f,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2015-03-23T21:09:36+00:00,2015-03-23T21:24:36+00:00
+bb25074f-62c0-6219-9674-10218eb6d189,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2015-04-27T21:09:36+00:00,2015-04-27T21:24:36+00:00
+74efe92b-eca3-ca89-246e-16182c2fb48e,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2015-06-29T21:09:36+00:00,2015-06-29T21:24:36+00:00
+2d1160d8-eaa2-a4ea-3226-45c959bb040f,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2015-08-31T21:09:36+00:00,2015-08-31T21:24:36+00:00
+a24096f6-f7f4-d261-1a7b-14262e41ab90,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2015-11-30T21:09:36+00:00,2015-11-30T21:24:36+00:00
+b5bb32e3-c6a5-8a7a-a529-7d57c3288a08,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for problem (procedure),2015-12-13T21:09:36+00:00,2015-12-13T21:24:36+00:00
+4478d6b6-e280-cb46-1755-1aed225b821f,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for problem (procedure),2015-12-30T11:09:36+00:00,2015-12-30T11:24:36+00:00
+1b02b7db-263e-d7f1-ef46-4c6a3cf80900,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for problem (procedure),2016-01-18T00:09:36+00:00,2016-01-18T00:49:05+00:00
+e48112e7-4d88-574a-c1b3-c87fd6d3f954,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2016-02-29T21:09:36+00:00,2016-02-29T21:24:36+00:00
+86ed928f-3164-1b1d-6d99-eb32d9d3ec42,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2016-05-30T21:09:36+00:00,2016-05-30T21:24:36+00:00
+bf460eb5-bc2b-3c76-1c6c-7679bd4e4284,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2016-08-29T21:09:36+00:00,2016-08-29T21:24:36+00:00
+2c03ebbd-0cd6-50f8-c2fb-b890bd8eaaf5,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2017-02-27T21:09:36+00:00,2017-02-27T21:24:36+00:00
+3f01e5a3-c2e9-7100-5407-2683fa5faad2,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2017-08-28T21:09:36+00:00,2017-08-28T21:24:36+00:00
+2b18c8f2-50bf-1cf2-1f55-16dc7ba41268,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2018-02-26T21:09:36+00:00,2018-02-26T21:24:36+00:00
+7c39d83d-87a0-4d65-55af-810e497d2f0b,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2018-08-27T21:09:36+00:00,2018-08-27T21:24:36+00:00
+3438691e-f90e-f130-7a3b-68690751271b,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for symptom (procedure),2018-10-03T21:09:36+00:00,2018-10-03T21:24:36+00:00
+d1031f78-efb5-7291-f068-8552237a89e0,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2019-02-25T21:09:36+00:00,2019-02-25T21:24:36+00:00
+8d67919f-134b-a2ad-45fc-8c63bf45f78e,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for symptom (procedure),2019-11-18T21:09:36+00:00,2019-11-18T21:24:36+00:00
+641de3db-39b2-fb04-53b1-a4061ceaec8f,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for symptom (procedure),2019-12-17T21:09:36+00:00,2019-12-17T21:24:36+00:00
+43e55f46-0127-9557-9633-ba45ff4a2478,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2020-03-02T21:09:36+00:00,2020-03-02T21:24:36+00:00
+77df8eb0-b365-f4d9-b71c-dd2aec4791e5,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2021-03-08T21:09:36+00:00,2021-03-08T21:24:36+00:00
+70be96ce-5b44-bc82-e238-37d22cb66e4d,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Urgent care clinic (environment),2021-07-26T21:09:36+00:00,2021-07-26T21:24:36+00:00
+d2eca4db-9721-90c2-0cc1-d74a0657f7d2,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Urgent care clinic (environment),2021-08-02T21:09:36+00:00,2021-08-02T21:24:36+00:00
+366805ef-f106-3a5b-9d32-efefe19087e3,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for check up (procedure),2021-08-09T21:09:36+00:00,2021-08-09T21:24:36+00:00
+7c4a9d68-d9c4-ba4c-524d-21683c5e294e,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for check up (procedure),2021-08-16T21:09:36+00:00,2021-08-17T00:16:39+00:00
+978cf8e1-3cd5-9b5b-7d05-ccf34d4abddc,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for symptom (procedure),2021-08-23T21:09:36+00:00,2021-08-23T21:24:36+00:00
+30a36a48-cf14-d766-60bf-e902763e481f,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Urgent care clinic (environment),2021-11-29T21:09:36+00:00,2021-11-29T21:24:36+00:00
+8c27168e-f925-ef3b-01dc-83fec067303f,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for symptom (procedure),2021-12-06T21:09:36+00:00,2021-12-06T21:24:36+00:00
+d2b5445a-701c-57e0-6b14-bfbd557ad00d,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2022-03-14T21:09:36+00:00,2022-03-14T21:24:36+00:00
+038231df-67b7-c512-5f1e-0624707a1f56,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for check up (procedure),2022-04-04T21:09:36+00:00,2022-04-04T21:24:36+00:00
+ae82cb0d-6923-c917-104e-5b5788af4303,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for symptom (procedure),2022-04-11T21:09:36+00:00,2022-04-11T21:24:36+00:00
+ec058daa-f3ae-ea03-79df-c4f7d38ce567,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2023-03-20T21:09:36+00:00,2023-03-20T21:24:36+00:00
+a5cb0cb9-853c-4b12-3643-4dd43f525918,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for problem (procedure),2023-09-21T21:09:36+00:00,2023-09-21T21:24:36+00:00
+b2c42633-c92a-df82-29b4-29bca3525451,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2024-03-25T21:09:36+00:00,2024-03-25T21:24:36+00:00
+d76e947b-7b41-6fcc-d387-6d996fadbf30,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for check up (procedure),2024-04-01T21:09:36+00:00,2024-04-01T23:45:59+00:00
+3a0a0362-bf72-d485-a7d7-19b1eec88d61,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Emergency room admission (procedure),2025-03-01T21:09:36+00:00,2025-03-01T22:09:36+00:00
+b6880f0f-7102-a60d-0bad-992cf9c48d54,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Well child visit (procedure),2025-03-31T21:09:36+00:00,2025-03-31T21:24:36+00:00
+2d78dc2a-282b-b1cf-f2a5-183dffb87e5e,urn:uuid:b8e100ff-43f3-0f1f-3db5-20f28e386504,finished,Encounter for check up (procedure),2025-04-07T21:09:36+00:00,2025-04-08T00:09:32+00:00
+929c5235-d880-5464-2687-19d4ecd86198,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for symptom (procedure),1967-11-30T05:49:01+00:00,1967-11-30T06:04:01+00:00
+26df8546-4a05-d661-c834-cb8f98a28c12,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),1977-07-22T18:49:01+00:00,1977-07-22T19:31:52+00:00
+9584bb34-599f-d5cf-b679-8268e829caab,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),1978-07-28T18:49:01+00:00,1978-07-28T19:29:24+00:00
+6eccba9e-ba10-de20-a950-23242d9b864d,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for problem (procedure),1979-07-06T18:49:01+00:00,1979-07-12T21:49:01+00:00
+e10a4cc7-4202-8a05-7368-0fadc94b5271,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),1996-08-16T18:49:01+00:00,1996-08-16T19:41:30+00:00
+6c320a81-32b9-51ff-240c-56c80b4d7382,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Periodic reevaluation and management of healthy individual (procedure),1998-06-05T18:49:01+00:00,1998-06-07T04:37:49+00:00
+496261b4-5105-54d9-c08f-fd2c02050173,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for problem (procedure),2001-09-05T18:49:01+00:00,2001-09-05T19:04:01+00:00
+e5345c40-a380-b71b-3420-a9a371d489f8,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Prenatal visit (regime/therapy),2004-06-23T18:49:01+00:00,2004-06-23T19:04:01+00:00
+8d733999-13c6-98f3-145f-931460fb7a16,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2011-06-10T18:49:01+00:00,2011-06-10T19:27:24+00:00
+9846e687-5f81-927c-1169-322f74e55c5f,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2012-06-15T18:49:01+00:00,2012-06-15T19:45:52+00:00
+77f86e44-d5c8-04d1-66af-8b2f1b27f748,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2013-06-21T18:49:01+00:00,2013-06-21T19:37:03+00:00
+2c3b849b-1c55-fc01-161a-824df18eaad2,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for problem (procedure),2013-07-03T12:35:18+00:00,2013-07-03T17:16:47+00:00
+84b46a75-48a2-08a4-46e2-68e3b2837ca3,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Hospital admission (procedure),2013-07-16T15:58:17+00:00,2013-07-16T20:25:27+00:00
+3d8d7374-84a2-d342-d0b0-20457090d355,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2014-06-27T18:49:01+00:00,2014-06-27T19:38:09+00:00
+86306484-09f4-9d2d-306b-96fc99c2426a,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2015-06-05T01:59:02+00:00,2015-06-05T02:34:31+00:00
+6e278fed-83cb-d338-8d9c-ffcdfa69b7e6,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2015-06-05T02:34:31+00:00,2015-06-05T02:51:14+00:00
+e8e0b1d6-b71f-3a48-5b9d-69ce2f116fdf,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2015-06-05T02:51:14+00:00,2015-06-05T03:20:13+00:00
+7363a4aa-4ee5-1826-1fcd-06785e389ce0,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2015-07-03T18:49:01+00:00,2015-07-03T19:20:04+00:00
+c1c74b4c-6857-1c71-02a1-aebfc687ab7e,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2016-05-24T03:20:13+00:00,2016-05-24T03:59:26+00:00
+c70d2dc2-9883-d9fe-a975-54fe9d105192,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2016-05-24T03:59:26+00:00,2016-05-24T04:22:04+00:00
+02728219-7969-aa79-cfb1-00794612ea87,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2016-05-24T04:22:04+00:00,2016-05-24T04:46:59+00:00
+849f9482-4bac-276f-cfb8-fb7d5c22ddb3,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2016-07-08T18:49:01+00:00,2016-07-08T19:39:14+00:00
+947b79ef-4faf-a09a-e623-61bda455b61e,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for check up (procedure),2016-07-22T18:49:01+00:00,2016-07-22T21:46:48+00:00
+d57dae2c-e59a-743b-6298-5d659419282f,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Urgent care clinic (environment),2016-08-05T18:49:01+00:00,2016-08-05T19:32:27+00:00
+75ebb096-2094-6910-9266-118c8f0da2fd,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Urgent care clinic (environment),2016-08-12T18:49:01+00:00,2016-08-12T19:04:01+00:00
+76c24f7c-32f6-e17b-ae51-68f400ffc88b,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for symptom (procedure),2016-08-19T18:49:01+00:00,2016-08-19T19:04:01+00:00
+a386ba90-dafa-ce3a-4122-ddd1640d3c2b,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for problem (procedure),2017-02-17T18:49:01+00:00,2017-02-17T19:04:01+00:00
+b75df4ca-3169-d351-a092-cac338abe07e,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for problem (procedure),2017-02-24T18:49:01+00:00,2017-02-24T19:04:01+00:00
+04248179-cc43-c387-0d58-c4ecd788cacc,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2017-05-26T04:46:59+00:00,2017-05-26T05:21:46+00:00
+d868abd9-b410-37a1-d86c-fed8e8d5e9cf,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2017-05-26T05:21:46+00:00,2017-05-26T05:46:22+00:00
+24e7f967-eea7-0417-65dd-922ea6213b03,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2017-05-26T05:46:22+00:00,2017-05-26T06:10:41+00:00
+a8a99f61-fbf6-1e78-0693-998c258edf0d,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2017-07-14T18:49:01+00:00,2017-07-14T19:27:22+00:00
+9384f508-0dfa-21bc-bac7-a25cc472216b,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2018-05-29T06:10:41+00:00,2018-05-29T06:44:29+00:00
+b35e4388-ecea-ceb2-2561-0b677e105da5,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2018-05-29T06:44:29+00:00,2018-05-29T07:07:43+00:00
+0dccdda9-9aaf-9078-c96f-7aebcc7ad093,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2018-05-29T07:07:43+00:00,2018-05-29T07:38:28+00:00
+6a91f038-cb83-a824-44f5-f40c7ee266e0,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2018-07-20T18:49:01+00:00,2018-07-20T19:31:20+00:00
+c0927f2a-c7a3-224d-a3a7-38167c9c1808,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2019-05-18T07:38:28+00:00,2019-05-18T08:17:07+00:00
+9a5d1608-88e2-d5a7-8136-0bbf434d2e08,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2019-05-18T08:17:07+00:00,2019-05-18T08:33:51+00:00
+2072c0ec-622f-1d27-6f7a-7c1fd0d88edd,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2019-05-18T08:33:51+00:00,2019-05-18T09:04:50+00:00
+bff6706d-af17-61fb-852c-8f7039c7ac3a,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2019-07-26T18:49:01+00:00,2019-07-26T19:30:36+00:00
+c0471edb-6406-94dc-7d80-d0655d2f463d,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2020-04-29T09:04:50+00:00,2020-04-29T09:38:19+00:00
+fd7313fb-8d29-052f-a55e-2f65f1b33b19,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2020-04-29T09:38:19+00:00,2020-04-29T09:56:56+00:00
+c54561f2-c923-ccd7-bbc8-1fc1b366ae82,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2020-04-29T09:56:56+00:00,2020-04-29T10:19:28+00:00
+ebf6322d-4191-43be-72cd-e2303e24b1d4,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2020-07-31T18:49:01+00:00,2020-07-31T19:24:26+00:00
+06d8db94-f5d5-82ec-17f9-589b7c3b3327,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Administration of vaccine to produce active immunity (procedure),2021-01-01T18:49:01+00:00,2021-01-01T19:04:01+00:00
+a496a342-c386-c81a-c149-f76375e9a55d,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Administration of vaccine to produce active immunity (procedure),2021-01-29T18:49:01+00:00,2021-01-29T19:04:01+00:00
+5897ec67-9da2-709d-7aba-d6df3a6c8699,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2021-05-04T10:19:28+00:00,2021-05-04T11:02:14+00:00
+c4e69512-7674-2249-b451-4f90592c0c27,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2021-05-04T11:02:14+00:00,2021-05-04T11:18:37+00:00
+1fc6f6cc-7f51-6c4c-4f38-2b3f19a354b4,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2021-05-04T11:18:37+00:00,2021-05-04T11:46:43+00:00
+84dd0f63-6e45-d34b-2694-2a5598958c6b,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2021-08-06T18:49:01+00:00,2021-08-06T19:47:43+00:00
+e57b850c-c5f4-8713-37cf-905cd3aa5418,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Encounter for check up (procedure),2021-08-20T18:49:01+00:00,2021-08-20T21:41:06+00:00
+038d6385-2a71-5660-7d15-e0cf7556f683,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2022-05-20T11:46:43+00:00,2022-05-20T12:21:07+00:00
+f5652a79-7a05-6cff-6c9c-c302604525c2,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2022-05-20T12:21:07+00:00,2022-05-20T12:40:41+00:00
+4d06a278-2dcc-75a6-d9e4-fac59cd46165,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2022-05-20T12:40:41+00:00,2022-05-20T13:08:44+00:00
+d4034800-73a3-8c64-5701-936fed7073d4,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2022-08-12T18:49:01+00:00,2022-08-12T19:24:03+00:00
+0a0bf72a-a4c7-f983-1bbc-6d3d278da007,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2023-05-23T13:08:44+00:00,2023-05-23T13:45:03+00:00
+c5508350-719a-3753-d2f3-b297e51240e7,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2023-05-23T13:45:03+00:00,2023-05-23T14:04:26+00:00
+07104222-defa-9269-5f4e-463cf44a513c,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2023-05-23T14:04:26+00:00,2023-05-23T14:28:26+00:00
+0dbe797f-63e8-ad69-a8d7-d0fc94a83f86,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2023-08-18T18:49:01+00:00,2023-08-18T19:26:07+00:00
+8ed1bd30-8edc-a396-a5ff-1f115be28e26,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2024-04-27T14:28:26+00:00,2024-04-27T15:13:22+00:00
+0ae8a0b9-74a3-d489-fb26-23a7331e6496,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2024-04-27T15:13:22+00:00,2024-04-27T15:31:52+00:00
+1208985a-f7aa-0011-d540-ad9abed1689d,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2024-04-27T15:31:52+00:00,2024-04-27T16:01:35+00:00
+1a2cbb21-cea1-c776-8e23-4aa4226d6d75,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Admission to hospice (procedure),2024-05-31T18:49:01+00:00,2024-08-01T19:04:01+00:00
+cd1c0874-1020-843f-c12f-28cf448ba676,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,General examination of patient (procedure),2024-08-23T18:49:01+00:00,2024-08-23T19:27:30+00:00
+71696423-3129-eb43-9084-a3ed8d91a3e8,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Postoperative follow-up visit (procedure),2025-03-29T16:01:35+00:00,2025-03-29T16:32:29+00:00
+8048c7b8-9a8d-4d83-f417-92355b3fe607,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Screening surveillance (regime/therapy),2025-03-29T16:32:29+00:00,2025-03-29T16:55:26+00:00
+c5fca435-2505-131a-1f7f-c095b8284c7c,urn:uuid:8c9fcd93-051b-fa4d-1531-229fdc887946,finished,Gynecology service (qualifier value),2025-03-29T16:55:26+00:00,2025-03-29T17:19:04+00:00
+edfdae06-5dfd-02fb-cf88-c2d305d2fcb0,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for problem (procedure),2006-06-17T02:03:07+00:00,2006-06-17T02:18:07+00:00
+c0bfce29-5e75-5361-9dba-cf053a59fc4b,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for problem (procedure),2006-07-02T17:03:07+00:00,2006-07-02T17:37:25+00:00
+7ea5dedb-2a4b-015c-a583-5177e0fc3f8c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for symptom (procedure),2010-05-26T04:03:07+00:00,2010-05-26T04:18:07+00:00
+1baa137c-9421-d866-cf0f-5217bef8b857,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2014-08-14T04:03:07+00:00,2014-08-14T04:18:07+00:00
+c1b81f56-e991-175a-91f0-4f58f4ae1115,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2015-08-20T04:03:07+00:00,2015-08-20T04:18:07+00:00
+05ca6c04-cdc8-7e82-cef2-d24a623110b5,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2016-08-25T04:03:07+00:00,2016-08-25T04:18:07+00:00
+284fedce-1fb0-e647-a253-bd1171561fc3,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2016-09-01T04:03:07+00:00,2016-09-01T07:46:16+00:00
+10cc3cc9-f98f-6f4e-4911-4de21a27bc49,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2016-10-20T04:03:07+00:00,2016-10-20T04:18:07+00:00
+56d015b9-ca6a-b929-54d2-fd371bd828b0,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for symptom (procedure),2016-10-20T19:03:07+00:00,2016-10-20T19:18:07+00:00
+824cde9a-9640-cd58-7ed8-f808854eb29d,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2017-08-31T04:03:07+00:00,2017-08-31T04:18:07+00:00
+9f9a2efd-8add-c8c0-5553-4392807d6260,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2017-09-14T04:03:07+00:00,2017-09-14T08:04:05+00:00
+a8bb5f1c-f084-6909-1aa8-42a1d2d661d2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Allergic disorder initial assessment (regime/therapy),2018-08-16T04:03:07+00:00,2018-08-16T04:24:46+00:00
+234ceee6-9b21-c355-f73c-f59c7230655a,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2018-09-06T04:03:07+00:00,2018-09-06T04:19:58+00:00
+7ec895c5-b71c-99da-fdff-0432e9441dbc,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2018-09-07T04:24:46+00:00,2018-09-07T05:17:53+00:00
+ec79e531-610f-50eb-7c4c-f9016d14fabc,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2018-09-30T05:17:53+00:00,2018-09-30T06:04:57+00:00
+e8d5f281-bb5c-96eb-87fd-775621f3c597,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2018-10-21T06:04:57+00:00,2018-10-21T06:22:51+00:00
+8e4b1dde-e089-d15e-29b7-d9fb75fe4353,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2018-11-17T06:22:51+00:00,2018-11-17T07:19:34+00:00
+a07d2faa-7c64-5e36-3c98-a2de342a5da4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2018-12-11T07:19:34+00:00,2018-12-11T07:58:43+00:00
+b8417b1d-3b71-9c8e-fd0d-483b3b9fc117,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-01-03T07:58:43+00:00,2019-01-03T08:53:26+00:00
+e711903b-807f-7f1b-aeeb-d203b1769987,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-01-28T08:53:26+00:00,2019-01-28T09:44:06+00:00
+f1add27e-20cd-845b-7fc7-f2452c66b31a,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-02-18T09:44:06+00:00,2019-02-18T10:22:45+00:00
+4ba4c048-6596-6665-6471-91fd910f9569,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-03-14T10:22:45+00:00,2019-03-14T10:45:58+00:00
+c9e3188c-14e3-7014-b87e-6bbd9f47d03d,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-04-07T10:45:58+00:00,2019-04-07T11:29:13+00:00
+53a399e2-2642-dfe5-02dc-3a979622c859,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-04-30T11:29:13+00:00,2019-04-30T11:54:48+00:00
+72d4b3d0-3e93-ae26-4276-9a3065d33f08,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-05-27T11:54:48+00:00,2019-05-27T12:51:47+00:00
+2e06b679-44c0-086a-88c7-319407b79046,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-06-20T12:51:47+00:00,2019-06-20T13:38:58+00:00
+00dff4f3-ef18-17dc-4a4b-0231812e0fed,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-07-14T13:38:58+00:00,2019-07-14T14:16:03+00:00
+04841c60-aad8-60de-c4a4-4b5282ba6648,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-08-05T14:16:03+00:00,2019-08-05T14:34:47+00:00
+46b7b3a6-98f8-b71d-bc6e-242728ee5330,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-08-30T14:34:47+00:00,2019-08-30T15:04:21+00:00
+03c8e4b6-60f6-beb0-dd34-c126b0bdb397,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2019-09-12T04:03:07+00:00,2019-09-12T04:18:07+00:00
+c2ce31c4-8740-afcc-8519-e276af9d715f,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-09-21T15:04:21+00:00,2019-09-21T15:54:31+00:00
+eba2754d-df14-b3d3-db8a-786f8fbaf5d7,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2019-09-26T04:03:07+00:00,2019-09-26T07:36:57+00:00
+8f409f1c-c007-2336-29fd-d993ed7915ef,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-10-17T15:54:31+00:00,2019-10-17T16:47:31+00:00
+742d37b5-4f92-e69b-264b-8cd6dcaec06d,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-11-08T16:47:31+00:00,2019-11-08T17:15:32+00:00
+15ec3b15-35a1-9d4c-2fd9-d36f8662bc57,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-12-05T17:15:32+00:00,2019-12-05T17:43:25+00:00
+292081fc-1d4a-9222-e47b-e565b5e4fdc2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2019-12-26T17:43:25+00:00,2019-12-26T18:10:10+00:00
+4b526421-78fb-5c3e-7fa3-a5b0f2d2f77c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-01-16T18:10:10+00:00,2020-01-16T18:30:24+00:00
+0ccba408-e7df-811d-e2c9-810e4f798dc4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-02-08T18:30:24+00:00,2020-02-08T19:11:24+00:00
+2f7d6eeb-050d-3ddc-633e-a00c98d82f73,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-03-06T19:11:24+00:00,2020-03-06T19:46:01+00:00
+916527aa-c55c-3a36-4d27-82a0e70e3d2c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Urgent care clinic (environment),2020-03-19T04:03:07+00:00,2020-03-19T04:21:42+00:00
+d4b9cd21-dea3-92f4-72cb-a429913afa6f,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Urgent care clinic (environment),2020-03-26T04:03:07+00:00,2020-03-26T04:18:07+00:00
+5ebe592e-7581-73f3-aec6-2ed117c1a743,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2020-04-02T04:03:07+00:00,2020-04-02T04:32:39+00:00
+e5529687-249a-294b-663b-4e056f2d0e1f,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-04-09T04:03:07+00:00,2020-04-09T04:25:24+00:00
+6a67824a-aa41-ba4d-faa6-8e0fe0012c5a,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for symptom (procedure),2020-04-16T04:03:07+00:00,2020-04-16T04:21:49+00:00
+de92d4c6-927b-81c5-d925-5fccdecf9e16,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2020-04-23T04:03:07+00:00,2020-04-23T06:55:07+00:00
+277f91ed-2a5d-5637-f9ae-da9e80eb1243,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-05-03T04:25:24+00:00,2020-05-03T04:52:15+00:00
+82fa0985-13d9-8f52-6aab-942841f287e7,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-05-29T04:52:15+00:00,2020-05-29T05:08:56+00:00
+dcf1ca4f-c306-24ef-c449-701ea9e15d80,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-06-19T05:08:56+00:00,2020-06-19T05:30:52+00:00
+2e03027f-ae59-84e5-70ae-b737e7acdf8f,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-07-10T05:30:52+00:00,2020-07-10T06:04:05+00:00
+314894d3-8725-b29f-0f66-76f71d9f96c9,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-08-02T06:04:05+00:00,2020-08-02T06:42:08+00:00
+1341eab2-e561-1e15-1867-5581de0acc72,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-08-26T06:42:08+00:00,2020-08-26T07:35:31+00:00
+ed050faf-1043-5a60-3b49-1e9eede68508,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2020-09-17T04:03:07+00:00,2020-09-17T04:18:07+00:00
+3afa2b93-ae21-89bc-1ad8-067c758b39f8,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-09-20T07:35:31+00:00,2020-09-20T08:04:51+00:00
+c18dd1ce-ddc4-9d9b-4a1a-6f67ad95c3f4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2020-10-01T04:03:07+00:00,2020-10-01T08:03:32+00:00
+575f0d0f-e6a7-ef41-f4fd-7e03b25427e7,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-10-12T08:04:51+00:00,2020-10-12T08:35:31+00:00
+1139dda2-8ae5-d65c-38ee-262078809c19,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-11-03T08:35:31+00:00,2020-11-03T09:28:39+00:00
+7f077c60-fc4e-60df-f5eb-fd68b95a2c0d,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for problem (procedure),2020-11-11T01:15:07+00:00,2020-11-11T01:30:07+00:00
+e41696a2-005f-7a4a-252c-b3f8e1d65ed5,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-11-29T09:28:39+00:00,2020-11-29T10:10:28+00:00
+63871866-7b04-7e64-a95b-3e78901a2ef4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2020-12-21T10:10:28+00:00,2020-12-21T10:29:24+00:00
+d64e98f7-e017-6eb7-8dab-8c77ca48f15c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-01-12T10:29:24+00:00,2021-01-12T11:22:41+00:00
+08625a37-34f6-2fe0-e99b-41bd0efd2bf4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-02-06T11:22:41+00:00,2021-02-06T12:20:35+00:00
+a14b72b5-26d1-feef-ae25-654887586719,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-02-27T12:20:35+00:00,2021-02-27T12:56:45+00:00
+e387296d-ada7-8de2-3091-15bad17addec,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-03-23T12:56:45+00:00,2021-03-23T13:31:43+00:00
+f48ca5c7-ff88-69c9-bdf1-7e96112f90b9,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-04-18T13:31:43+00:00,2021-04-18T13:54:12+00:00
+c271249b-0b95-6f72-9f53-3c904a4a25e2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-05-12T13:54:12+00:00,2021-05-12T14:10:54+00:00
+71626fb2-8f64-fcba-086d-273b3fb17f87,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-06-02T14:10:54+00:00,2021-06-02T14:58:13+00:00
+6dbe963d-18e0-9daf-fe1c-014e17de4e2c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-06-27T14:58:13+00:00,2021-06-27T15:48:18+00:00
+06c384bc-a0a9-f1eb-bd3f-41985b316aab,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Administration of vaccine to produce active immunity (procedure),2021-07-15T04:03:07+00:00,2021-07-15T04:18:07+00:00
+2d3d9fe2-367a-1ffc-222a-0afd9fda12c4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-07-19T15:48:18+00:00,2021-07-19T16:30:06+00:00
+0b60ee1d-20e5-0433-9b3c-e884e923b6ab,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Administration of vaccine to produce active immunity (procedure),2021-08-05T04:03:07+00:00,2021-08-05T04:18:07+00:00
+f7850e32-2895-8c06-dc43-9f6ffd58ec78,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-08-12T16:30:06+00:00,2021-08-12T16:56:43+00:00
+7fbdffe9-04cd-5de9-bff5-7754e938e480,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-09-05T16:56:43+00:00,2021-09-05T17:19:38+00:00
+b7a95a3f-f74a-13a4-8255-8e0c9f7030f2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2021-09-23T04:03:07+00:00,2021-09-23T04:27:36+00:00
+67018299-9a30-c14a-e0a9-c5c5fd254976,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-09-27T17:19:38+00:00,2021-09-27T18:01:21+00:00
+d4e67eae-c39f-b88a-5c6f-09a96c54ce59,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-10-24T18:01:21+00:00,2021-10-24T18:33:48+00:00
+cc41b5b0-b1ac-25c5-9af0-3841ebc8d01c,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-11-15T18:33:48+00:00,2021-11-15T19:13:30+00:00
+2bc1616b-12b3-6212-3203-5c00c1c1ecd8,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2021-12-11T19:13:30+00:00,2021-12-11T19:37:59+00:00
+b085b740-287c-5835-0bf7-b72782985569,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-01-04T19:37:59+00:00,2022-01-04T20:09:00+00:00
+bac843cf-419c-0df3-9069-8f4a06b5be46,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-01-26T20:09:00+00:00,2022-01-26T20:24:09+00:00
+2aa47d85-369c-03f9-ea68-891181f463ee,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-02-19T20:24:09+00:00,2022-02-19T20:49:37+00:00
+d498a62b-d3c5-4b0b-87ad-45eba6debe9e,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-03-16T20:49:37+00:00,2022-03-16T21:31:15+00:00
+e833b82d-6012-702c-41f3-4b3710fb82a4,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-04-06T21:31:15+00:00,2022-04-06T22:18:08+00:00
+9cee8293-9ec9-7e6e-f885-c75bbbadfedc,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-04-28T22:18:08+00:00,2022-04-28T23:06:00+00:00
+26e7ad82-7678-be1d-6995-c9c20973314f,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-05-19T23:06:00+00:00,2022-05-19T23:46:19+00:00
+eb43fa80-02b5-7eeb-f1f0-1e459bb45a9a,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-06-11T23:46:19+00:00,2022-06-12T00:41:57+00:00
+619084c8-758c-b0c4-cad5-0c9b9c8ec560,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Outpatient procedure (procedure),2022-07-07T00:41:57+00:00,2022-07-07T01:28:50+00:00
+9407a0d3-cf1b-454b-aa9b-a556550f1540,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Allergic disorder follow-up assessment (regime/therapy),2022-08-02T01:28:50+00:00,2022-08-02T01:53:36+00:00
+af28865c-2fd8-50ab-cf8a-ef82a214c5be,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Well child visit (procedure),2022-09-29T04:03:07+00:00,2022-09-29T04:18:07+00:00
+4a53e3af-bf17-b712-1176-1b216ee2d8b6,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2022-10-13T04:03:07+00:00,2022-10-13T10:34:32+00:00
+c70ae228-9587-8dae-80a5-24208e09be70,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,General examination of patient (procedure),2023-10-05T04:03:07+00:00,2023-10-05T04:39:11+00:00
+4cb4dfd8-edcd-212e-8ecc-30c06534fc8f,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for symptom (procedure),2024-05-14T04:03:07+00:00,2024-05-14T04:18:07+00:00
+d64d4fcc-b14e-df94-5663-b7da376683e2,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,General examination of patient (procedure),2024-10-10T04:03:07+00:00,2024-10-10T04:38:32+00:00
+273b32ef-2938-9a9c-ca9c-86214bf2db5a,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Asthma follow-up (regime/therapy),2024-11-10T04:03:07+00:00,2024-11-10T04:18:07+00:00
+59dfdef5-ba71-a703-50f4-298320e199e3,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Urgent care clinic (environment),2025-01-02T04:03:07+00:00,2025-01-02T04:38:05+00:00
+3cec4cba-d19b-9006-7a0f-3fa641c9cdc0,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Urgent care clinic (environment),2025-01-09T04:03:07+00:00,2025-01-09T04:18:07+00:00
+12824732-4031-8940-a62d-1c76bcb317a3,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Urgent care clinic (environment),2025-01-16T04:03:07+00:00,2025-01-16T04:49:45+00:00
+0fd81a9d-f813-8806-8f1b-29bbb9076f74,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2025-01-23T04:03:07+00:00,2025-01-23T04:18:07+00:00
+3f08f417-d41a-8491-bdad-b5d6b8b87f61,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for symptom (procedure),2025-01-30T04:03:07+00:00,2025-01-30T04:18:07+00:00
+7ece698e-1119-2736-fa1d-56da5d3e5aeb,urn:uuid:9154fd34-954e-5943-8432-4949a14663b3,finished,Encounter for check up (procedure),2025-02-06T04:03:07+00:00,2025-02-06T07:40:42+00:00
+dee4c24a-50a6-b314-d70e-9f7f5333ca87,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2009-03-06T06:39:24+00:00,2009-03-06T07:34:35+00:00
+4d5c4482-8778-3535-11f6-2f284cefc94e,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2010-03-12T06:39:24+00:00,2010-03-12T07:30:54+00:00
+614c88e9-d8e9-0a86-d09a-811dfbf08416,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for check up (procedure),2012-11-09T06:39:24+00:00,2012-11-09T07:15:31+00:00
+c1a474f4-c194-bc5d-5d66-a13e145b977a,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2013-03-15T06:39:24+00:00,2013-03-15T07:31:05+00:00
+460c228f-d4fd-e9b2-f88f-e33023fd2db3,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for symptom (procedure),2015-09-28T15:39:24+00:00,2015-09-28T15:54:24+00:00
+9e334007-3aad-0469-dbbf-d9ea4fdb5ab7,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2016-03-18T06:39:24+00:00,2016-03-18T07:13:20+00:00
+3c8d764a-6335-8398-50e1-86bcdcb1e4ee,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for check up (procedure),2016-04-01T06:39:24+00:00,2016-04-01T10:00:36+00:00
+10a668a0-cea8-e8fd-d37c-56ad113e1048,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for symptom (procedure),2016-09-27T19:39:24+00:00,2016-09-27T19:54:24+00:00
+cd6e5f92-fada-8c2e-b6bc-d2eb5c400809,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for check up (procedure),2016-10-07T06:39:24+00:00,2016-10-07T07:39:11+00:00
+592ce780-6099-201e-8e64-8b20dfada84f,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for symptom (procedure),2019-02-20T13:39:24+00:00,2019-02-20T13:54:24+00:00
+f9123fc1-4663-b0c4-fdcc-0e074abf1a9a,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2019-03-22T06:39:24+00:00,2019-03-22T07:35:54+00:00
+f28c198a-81ce-ac63-eb0a-0a801f5d0e9f,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for check up (procedure),2019-04-05T06:39:24+00:00,2019-04-05T10:04:04+00:00
+3e344023-b40c-0e99-5414-37a1ca32df91,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for symptom (procedure),2019-05-18T13:39:24+00:00,2019-05-18T13:54:24+00:00
+54c5253b-55a9-da74-d17e-db9f1d7f82f3,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for symptom (procedure),2019-06-29T13:39:24+00:00,2019-06-29T13:54:24+00:00
+4c4e3009-0077-fb9f-6ab4-f586ceaeb6c9,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Encounter for symptom (procedure),2019-07-13T13:39:24+00:00,2019-07-13T13:54:24+00:00
+90a4141d-27c6-6587-4840-522364469417,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Administration of vaccine to produce active immunity (procedure),2021-07-09T06:39:24+00:00,2021-07-09T06:54:24+00:00
+54a77d1e-578c-4d03-ebe3-8a2b61a84f13,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,Administration of vaccine to produce active immunity (procedure),2021-07-30T06:39:24+00:00,2021-07-30T06:54:24+00:00
+8fa30961-4288-0761-ea6b-85dacebb55b7,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2022-03-25T06:39:24+00:00,2022-03-25T07:14:30+00:00
+d4d1d01e-3270-7e59-aa2e-e6a443138ae1,urn:uuid:ddfadff7-f58c-3913-2dff-9a075c5e6dcd,finished,General examination of patient (procedure),2025-03-28T06:39:24+00:00,2025-03-28T07:24:13+00:00
+bcccbf43-2d58-5061-3fe3-3f9cdaf57b64,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for problem (procedure),1990-10-10T05:17:34+00:00,1990-10-10T05:32:34+00:00
+4c8be1bc-b8b6-1725-ac6c-ebd2563a3096,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for problem (procedure),1990-10-20T15:05:34+00:00,1990-10-20T15:25:37+00:00
+ca3616a3-e6b6-9eff-aa03-7e932fad7db1,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,General examination of patient (procedure),2007-07-26T19:05:34+00:00,2007-07-26T19:57:16+00:00
+11765f5a-a65b-3639-fe8a-cc8c2a5d7fcb,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,General examination of patient (procedure),2011-08-04T19:05:34+00:00,2011-08-04T19:43:42+00:00
+4cf23b58-2cbc-63d3-464b-1bab1e9e5e9c,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,General examination of patient (procedure),2014-08-07T19:05:34+00:00,2014-08-07T19:40:07+00:00
+bd5064e8-5ac3-d908-8679-078d56afc75e,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal initial visit (regime/therapy),2015-01-15T19:05:34+00:00,2015-01-15T19:20:34+00:00
+612e4e14-1551-2e79-7a8b-8a0221f5e821,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2015-05-07T19:05:34+00:00,2015-05-07T19:20:34+00:00
+45508ea0-fd8a-4027-34d8-e08e09ad2bca,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2015-05-24T12:05:34+00:00,2015-05-24T12:21:05+00:00
+c05f7a43-a947-8b97-04f3-a1b237501818,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for check up (procedure),2015-06-04T19:05:34+00:00,2015-06-04T19:45:28+00:00
+ed34c949-af1b-d2d7-fb43-e8dc2743c504,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2015-06-11T19:05:34+00:00,2015-06-11T19:20:34+00:00
+f9b1b99d-c951-c826-ff72-c646e7935b0f,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2015-07-09T19:05:34+00:00,2015-07-09T19:20:34+00:00
+fd987da9-ed95-4a74-872a-95c796a5eed8,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2015-08-06T19:05:34+00:00,2015-08-06T19:20:34+00:00
+66b56a78-6197-83fd-5942-916ffec98260,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Obstetric emergency hospital admission (procedure),2015-08-20T19:05:34+00:00,2015-08-20T20:05:34+00:00
+eaf27d69-2a86-bc95-e204-7e3ad950adc9,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for problem (procedure),2015-09-08T19:05:34+00:00,2015-09-13T19:05:34+00:00
+bce45624-ca9e-b72a-5016-2f3e66117f94,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Postnatal visit (regime/therapy),2015-10-01T19:05:34+00:00,2015-10-01T19:20:34+00:00
+eeda59d6-c84f-e64b-5d6c-74bd943f73b8,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Consultation for treatment (procedure),2015-10-08T19:05:34+00:00,2015-10-08T19:36:09+00:00
+b451cb2c-dbab-83ad-004b-2d2da3ff5009,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2015-11-03T19:05:34+00:00,2015-11-03T20:04:40+00:00
+f86f899a-e7c9-f135-2e6a-ee5dc3ec9638,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for problem (procedure),2015-11-04T22:04:40+00:00,2015-11-05T00:05:17+00:00
+08efe5c8-f1c7-fa86-08e3-46f306424754,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2016-02-09T09:05:34+00:00,2016-02-09T09:20:34+00:00
+d86db410-2cae-963c-ef0e-842f9b1cd9f8,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2016-04-04T04:05:34+00:00,2016-04-04T04:20:34+00:00
+d9f6ba99-4980-e595-3950-a560b01f693a,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,General examination of patient (procedure),2017-08-10T19:05:34+00:00,2017-08-10T19:40:27+00:00
+bbe42e99-f286-4ca7-f7ac-8d18c79ed4bd,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Emergency room admission (procedure),2017-08-17T19:05:34+00:00,2017-08-17T20:05:34+00:00
+906aa9a2-c551-ea8e-a4b0-e358dee3c7c3,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for check up (procedure),2017-08-24T19:05:34+00:00,2017-08-24T22:29:39+00:00
+8cc2e6fe-a630-b9f9-e7d1-365ec4635b98,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2018-02-08T19:05:34+00:00,2018-02-08T19:26:59+00:00
+ecf1dab4-c2fd-d29a-1411-80c8dfa24b4d,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal initial visit (regime/therapy),2018-03-29T19:05:34+00:00,2018-03-29T19:20:34+00:00
+166eee6e-0598-5871-a0e5-eb1906db78d4,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2018-04-15T19:05:34+00:00,2018-04-15T19:20:34+00:00
+563754db-ae2e-a6db-46e4-1a5a1f36bc74,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2018-04-22T02:05:34+00:00,2018-04-22T02:20:34+00:00
+3707fe5d-3d8e-13fa-7a93-74ee351e49f1,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Consultation for treatment (procedure),2019-09-17T19:36:09+00:00,2019-09-17T19:51:09+00:00
+6726f355-6823-93ab-8498-237accc37610,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,General examination of patient (procedure),2020-08-13T19:05:34+00:00,2020-08-13T19:39:33+00:00
+82dc108b-80ef-8d01-844c-505382222872,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for check up (procedure),2020-08-27T19:05:34+00:00,2020-08-27T22:11:16+00:00
+b21bdd35-abc8-ca54-bc5c-a178ad0de312,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal initial visit (regime/therapy),2020-12-03T19:05:34+00:00,2020-12-03T19:20:34+00:00
+893e018e-41ea-a15a-db5a-b4181b13d477,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2020-12-31T19:05:34+00:00,2020-12-31T19:20:34+00:00
+9bdf002d-1b5f-c6b1-e010-5fbe616b511a,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2021-01-16T19:05:34+00:00,2021-01-16T19:45:55+00:00
+8a1b73a1-5d67-b66d-a0fa-1464be77ca20,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2021-01-28T19:05:34+00:00,2021-01-28T19:20:34+00:00
+ac84609b-6786-2481-79a2-4344287710d9,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2021-02-25T19:05:34+00:00,2021-02-25T19:20:34+00:00
+f2eead36-935a-569f-4b91-bdc7c80fb46b,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Administration of vaccine to produce active immunity (procedure),2021-03-25T19:05:34+00:00,2021-03-25T19:20:34+00:00
+099f1445-f893-64cd-651c-a578a8503a85,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2021-03-25T19:05:34+00:00,2021-03-25T19:20:34+00:00
+16b9004e-6c90-4bfb-9ed4-c63a9255abcd,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Administration of vaccine to produce active immunity (procedure),2021-04-22T19:05:34+00:00,2021-04-22T19:20:34+00:00
+e3f0a757-b3bd-67c3-7a7a-7e8eb616cc6b,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2021-04-22T19:05:34+00:00,2021-04-22T19:20:34+00:00
+71c5ee7d-4944-a7be-a54a-98f77898f18d,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2021-05-20T19:05:34+00:00,2021-05-20T19:20:34+00:00
+e48be343-5fb6-5e3d-7730-8ec034d0c37a,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2021-06-17T19:05:34+00:00,2021-06-17T19:20:34+00:00
+da933b20-2de3-9e5f-cec1-76db23194a06,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Obstetric emergency hospital admission (procedure),2021-07-01T19:05:34+00:00,2021-07-01T20:05:34+00:00
+6bad90d8-0b92-deeb-5ec9-c1b62b09cbbb,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Postnatal visit (regime/therapy),2021-08-12T19:05:34+00:00,2021-08-12T19:20:34+00:00
+392ac498-6b88-db21-c68a-77316ad86361,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Consultation for treatment (procedure),2021-09-06T19:36:09+00:00,2021-09-06T19:51:09+00:00
+14b6d519-7040-f841-d284-0cb5598eb631,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2022-05-24T19:05:34+00:00,2022-05-24T20:07:37+00:00
+6371f4e3-da1a-1535-f032-c32993e8435d,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for symptom (procedure),2022-06-09T20:07:37+00:00,2022-06-09T21:04:58+00:00
+546e2d6f-89b1-f2ea-d133-883fcfba572e,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for problem (procedure),2022-06-26T21:04:58+00:00,2022-06-27T21:04:58+00:00
+063e7e34-4af3-e676-0c5f-4c16338b25c4,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal initial visit (regime/therapy),2023-03-16T19:05:34+00:00,2023-03-16T19:20:34+00:00
+d272af57-6734-3862-727c-0d0f63d9ed79,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient-initiated encounter (procedure),2023-04-01T19:05:34+00:00,2023-04-01T19:20:34+00:00
+1c4c29f0-eda5-f466-5db5-88a088aed667,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Prenatal visit (regime/therapy),2023-04-19T19:05:34+00:00,2023-04-19T19:20:34+00:00
+ac2efb53-f3d0-108e-b471-a088dcee3aa1,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,General examination of patient (procedure),2023-08-17T19:05:34+00:00,2023-08-17T19:59:46+00:00
+044e4461-9e52-d8a9-bfaf-b453be39f362,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Emergency room admission (procedure),2023-08-22T19:05:34+00:00,2023-08-22T20:05:34+00:00
+f81370df-d00b-7742-1289-b3953e19d5f8,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Consultation for treatment (procedure),2023-08-27T19:36:09+00:00,2023-08-27T19:51:09+00:00
+2a207089-c21e-331b-c63f-3c1c29aa0fe4,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Encounter for check up (procedure),2023-08-31T19:05:34+00:00,2023-08-31T22:17:14+00:00
+42f8e760-3e83-66a7-5083-abf49e89940e,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2023-12-07T19:05:34+00:00,2023-12-07T19:20:34+00:00
+d8aedc97-1d5f-c0f9-633a-0dc08ed9433a,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2024-03-07T19:05:34+00:00,2024-03-07T19:20:34+00:00
+56eba8bd-6a77-873c-866b-450c3230448b,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2024-06-06T19:05:34+00:00,2024-06-06T19:23:45+00:00
+a16a84c2-c2e4-f358-8c09-b737ca807822,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Consultation for treatment (procedure),2024-08-21T19:47:39+00:00,2024-08-21T20:02:39+00:00
+2b981147-e07a-ae96-9009-7d79daf4bdd4,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2024-08-24T06:47:39+00:00,2024-08-24T07:50:05+00:00
+914bb384-d3ac-d63f-095a-eb711989b15e,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2024-09-05T19:05:34+00:00,2024-09-05T19:25:17+00:00
+5098b416-fe63-614a-ab07-94ecb868d7eb,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2024-12-05T19:05:34+00:00,2024-12-05T19:20:34+00:00
+956f6ea3-e0da-360b-5ec0-b2e51d725b7c,urn:uuid:ee516cfc-2a72-6a12-eadc-f18902970de6,finished,Patient encounter procedure (procedure),2025-03-06T19:05:34+00:00,2025-03-06T19:20:34+00:00
+3342a0c3-17a3-93e5-19bb-f833a5ff3dce,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2015-08-16T23:06:55+00:00,2015-08-16T23:21:55+00:00
+836cf030-be14-d963-1d24-990816a7d458,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2016-08-21T23:06:55+00:00,2016-08-21T23:21:55+00:00
+d341f994-4354-4884-2772-4f7f5ee03a87,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for symptom (procedure),2017-02-15T23:06:55+00:00,2017-02-15T23:21:55+00:00
+3accb2bd-65e0-c1aa-0d14-8f8d706781d9,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for symptom (procedure),2017-04-12T20:06:55+00:00,2017-04-12T20:21:55+00:00
+949d9622-84c5-7112-8124-698696fe6670,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2017-08-27T23:06:55+00:00,2017-08-27T23:21:55+00:00
+e6b3a980-4d6d-a5b0-cf7b-30c95339b8a5,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2018-09-02T23:06:55+00:00,2018-09-02T23:21:55+00:00
+9c741614-e7c2-3f93-6512-51a9ec009f23,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for check up (procedure),2018-09-09T23:06:55+00:00,2018-09-10T01:52:22+00:00
+6466b1f4-a711-26ec-d88a-1853faf11c2c,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2019-09-08T23:06:55+00:00,2019-09-08T23:21:55+00:00
+c9f08677-201a-2e96-091d-bd9cdd4a9419,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for check up (procedure),2019-09-15T23:06:55+00:00,2019-09-16T05:27:18+00:00
+d63fc20f-9d42-9984-acc2-673ffb20bdab,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2020-09-13T23:06:55+00:00,2020-09-13T23:22:27+00:00
+7a51c801-294d-7d8a-53c2-3d797ec3b785,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for check up (procedure),2020-09-27T23:06:55+00:00,2020-09-28T03:13:56+00:00
+fddbc42c-077d-9975-cd10-4d389bd86db9,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for symptom (procedure),2020-12-02T10:06:55+00:00,2020-12-02T10:21:55+00:00
+62c4b58c-dc4d-24fe-182c-3be02fd08fab,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for symptom (procedure),2021-03-23T03:06:55+00:00,2021-03-23T03:21:55+00:00
+0d56e131-3fa7-8b7e-ea0f-c87db9a9619b,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Administration of vaccine to produce active immunity (procedure),2021-08-15T23:06:55+00:00,2021-08-15T23:21:55+00:00
+5cd3c7ab-86a3-d28b-e2a2-bfce9a383e52,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Administration of vaccine to produce active immunity (procedure),2021-09-12T23:06:55+00:00,2021-09-12T23:21:55+00:00
+2fdd02c0-f6e5-0116-468e-e7e1d660ccee,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2021-09-19T23:06:55+00:00,2021-09-19T23:21:55+00:00
+97eea060-9ccb-284a-a040-205543472e12,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for symptom (procedure),2022-09-10T23:06:55+00:00,2022-09-10T23:21:55+00:00
+20694ca8-065e-6f20-d02b-b1f3ce3e43fd,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2022-09-25T23:06:55+00:00,2022-09-25T23:33:10+00:00
+1a5ca98b-dd15-644a-8470-70a5e99b2c22,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for check up (procedure),2022-10-09T23:06:55+00:00,2022-10-10T04:28:39+00:00
+abfcc5a5-9e06-4f20-54af-09a35f9a6962,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Consultation for treatment (procedure),2023-08-19T23:06:55+00:00,2023-08-19T23:21:55+00:00
+0c6b149f-e100-e803-1e27-38d987b66975,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2023-10-01T23:06:55+00:00,2023-10-01T23:21:55+00:00
+4b8e306e-2155-7086-8538-56f882564433,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Well child visit (procedure),2024-10-06T23:06:55+00:00,2024-10-06T23:26:25+00:00
+3c7dc25e-c197-1282-5082-a120557ceff6,urn:uuid:1785d405-cf5f-7ee0-ead9-7691914ed583,finished,Encounter for check up (procedure),2024-10-20T23:06:55+00:00,2024-10-21T04:15:58+00:00
