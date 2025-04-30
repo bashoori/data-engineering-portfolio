@@ -1,99 +1,71 @@
-# 🚀 Data Engineering Portfolio 
+# 💼 Data Engineering Portfolio
 
-Welcome to my Data Engineering Portfolio — a collection of hands-on, cloud-native projects that demonstrate my capabilities across data engineering, cloud infrastructure, and automation. With over 6 years of experience, I specialize in building scalable pipelines using Python, SQL, AWS, Airflow, and Google Cloud.
-
-Each project below is designed to solve real-world problems and showcase modern data engineering practices.
+Welcome to my Data Engineering Portfolio — a curated collection of cloud-native, automation-ready projects that reflect my skills in building scalable, efficient data solutions using Python, SQL, AWS, and Airflow. With over 6 years of hands-on experience, I focus on solving real-world problems with robust engineering practices.
 
 ---
 
-## 📁 Featured Projects
+## 🔧 Projects Overview
 
-### 🏥 [Healthcare FHIR Data Pipeline](./healthcare-FHIR-data-pipeline/)
-**Tech:** Python • FHIR JSON • SQLite • BigQuery • Streamlit • GitHub Actions  
-**Use Case:** Healthcare Data Simulation & Analysis
+### 1. **AWS Lambda LinkedIn Scraper**
+- **Purpose**: Automates the extraction of LinkedIn job postings using serverless infrastructure.
+- **Tools**: AWS Lambda, Python, BeautifulSoup, S3
+- **Highlights**: Scalable, cost-effective scraping using headless automation.
 
-- 🔹 Parses simulated patient, condition, encounter, and observation data from [Synthea](https://github.com/synthetichealth/synthea)
-- 🔹 Transforms and stores records in SQLite and BigQuery
-- 🔹 Interactive dashboards via Streamlit
-- 🔹 Modular design with reusable Python scripts
-- 🔹 CI/CD enabled via GitHub Actions
+### 2. **eBay Product Tracker**
+- **Purpose**: Tracks eBay listings for price and availability.
+- **Tools**: Python, eBay API, SQLite, Pandas
+- **Highlights**: Scheduled collection for historical trend analysis.
 
-📌 [Patients Dashboard](https://probable-carnival-7wwr7r9xv9j2vgv-8501.app.github.dev/)  
-📌 [Conditions Dashboard](https://probable-carnival-7wwr7r9xv9j2vgv-8502.app.github.dev/)
+### 3. **Healthcare FHIR Data Pipeline**
+- **Purpose**: Processes healthcare data in FHIR JSON format into structured databases.
+- **Tools**: Python, Synthea, SQLite/PostgreSQL, Pandas
+- **Highlights**: Parses FHIR-compliant records (Patient, Condition, Observation) into CSV/DB.
 
----
+### 4. **LinkedIn Job Scraper (Selenium-Based)**
+- **Purpose**: Extracts jobs dynamically from LinkedIn using browser automation.
+- **Tools**: Selenium, Python, Pandas
+- **Highlights**: Supports pagination and full-page rendering to avoid bot detection.
 
-### ☁️ [AWS Lambda LinkedIn Scraper](./AWS-lambda-linkedIn-scraper/)
-**Tech:** Python • AWS Lambda • S3 • DynamoDB • SNS • EventBridge  
-**Use Case:** Automated Job Scraper + Serverless Pipeline
+### 5. **Patient Engagement Data Pipeline**
+- **Purpose**: Processes patient engagement KPIs for performance dashboards.
+- **Tools**: SQL, Python, Tableau
+- **Highlights**: Clean ETL workflows enabling executive-level insights.
 
-- 🔹 Scrapes LinkedIn job listings for "Data Engineer" roles
-- 🔹 Saves job info (CSV) to AWS S3
-- 🔹 Logs metadata to DynamoDB
-- 🔹 Sends alerts via Amazon SNS
-- 🔹 EventBridge cron job for scheduling
-- 🔹 Fully compliant with AWS Free Tier
+### 6. **VitalTrack Wellness Pipeline**
+- **Purpose**: Parses wearable device JSON logs into structured reports.
+- **Tools**: Python, Pandas, AWS S3
+- **Highlights**: Simulates real-time processing of fitness tracker data.
 
-📌 [Lambda Function Guide](./AWS-lambda-linkedIn-scraper/lambda/README.md)
-
----
-
-### 📊 [eBay Product Tracker](./ebay-product-tracker/)
-**Tech:** Python • gspread • Google Sheets API • Telegram Bot • BeautifulSoup  
-**Use Case:** Affiliate/Product Monitoring Tool
-
-- 🔹 Scrapes eBay product listings based on search terms
-- 🔹 Pushes results into Google Sheets with timestamps
-- 🔹 Sends Telegram alerts for daily deals or price drops
-- 🔹 Includes sorting, deduplication, and rate control
+### 7. **VPL Scraper**
+- **Purpose**: Collects book catalog metadata from the Vancouver Public Library.
+- **Tools**: Python, Requests, BeautifulSoup
+- **Highlights**: Offline HTML parsing + Excel export using pandas.
 
 ---
 
-### 💼 [LinkedIn Job Scraper (Guest API)](./linkedIn-job-scraper/)
-**Tech:** Python • BeautifulSoup • Google Sheets • Telegram  
-**Use Case:** Job Research & Alert System
+## 🛠️ Skills & Tools
 
-- 🔹 Scrapes LinkedIn’s public job listings (no login required)
-- 🔹 Filters for keywords like “Data Engineer” in specific regions
-- 🔹 Sends new listings to Google Sheets + Telegram
-- 🔹 Designed for job-seekers and career coaches
-
----
-
-### 🧘 [VitalTrack – Wellness Pipeline (COMING SOON)](./vitaltrack-wellness-pipeline/)
-**Tech:** Python • Fitbit API • SQLite/BigQuery • Looker Studio  
-**Use Case:** Personal Wellness Dashboard (Sleep, Steps, Stress)
-
-- 🔹 Connects to health wearables and collects daily vitals
-- 🔹 Cleans and normalizes metrics for long-term trends
-- 🔹 Exports to Looker Studio for visual wellness dashboards
-
-🔧 *Under Development*
+- **Languages**: Python, SQL
+- **Cloud & Infra**: AWS (S3, Lambda), Google Cloud Platform
+- **Data Handling**: Pandas, NumPy, CSV, JSON
+- **Web Scraping**: BeautifulSoup, Selenium, Playwright
+- **Databases**: PostgreSQL, SQLite, MySQL
+- **Workflow Orchestration**: Apache Airflow
+- **Visualization**: Tableau, Streamlit
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 📈 About Me
 
-- **Cloud & Infrastructure:** AWS (Lambda, S3, Redshift, Glue, DynamoDB, EventBridge), GCP (BigQuery)
-- **Data Pipelines:** ETL, streaming & batch workflows, API integrations
-- **Programming:** Python, SQL, Shell scripting
-- **Dashboards & Visualization:** Streamlit, Looker Studio, Google Sheets
-- **Automation:** Apache Airflow, GitHub Actions, Serverless Framework
-- **Communication:** GitHub README, Telegram alerts, Confluence-style documentation
+I’m a Vancouver-based Data Engineer with a hybrid background in enterprise data infrastructure and freelance automation. From building real-time data scrapers to transforming healthcare datasets, I enjoy crafting solutions that save time and drive smarter decisions.
 
 ---
 
-## 📌 How to Use
+## 📫 Contact
 
-```bash
-# Clone the portfolio
-git clone https://github.com/bashoori/data-engineering-portfolio.git
+- **LinkedIn**: [linkedin.com/in/bashoori](https://linkedin.com/in/bashoori)
 
-# Navigate to a project
-cd healthcare-FHIR-data-pipeline
 
-# Set up Python environment
-pip install -r requirements.txt
+---
 
-# Run your pipeline!
-python scripts/patients_parser.py
+> 🚀 Always learning. Always building. Let’s connect if you’re hiring or collaborating on a data-driven idea!
