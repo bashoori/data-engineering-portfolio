@@ -19,7 +19,7 @@ Each project below is designed to solve real-world problems and showcase modern 
 - 🔹 CI/CD enabled via GitHub Actions
 
 📌 [Patients Dashboard](https://probable-carnival-7wwr7r9xv9j2vgv-8501.app.github.dev/)  
-📌 [Conditions Dashboard](https://probable-carnival-7wwr7r9xv9j2vgv-8502.app.github.dev/)  
+📌 [Conditions Dashboard](https://probable-carnival-7wwr7r9xv9j2vgv-8502.app.github.dev/)
 
 ---
 
@@ -97,29 +97,3 @@ pip install -r requirements.txt
 
 # Run your pipeline!
 python scripts/patients_parser.py
-```
-
----
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bashoori/)
-- 🌐 [GitHub Projects](https://github.com/bashoori/)
-- 📧 Email available upon request
-
----
-
-
-## 🛠️ Fork & Customize
-
-Interested in using this portfolio for your own learning or job search?
-
-1. **Fork this repository** to your GitHub profile
-2. Update the README and add your own projects
-3. Add your GitHub link to your resume and LinkedIn
-
-If you found this helpful, feel free to ⭐️ the repo!
-
----
-
-> ✨ *Built with curiosity, cloud, and clean code.*
