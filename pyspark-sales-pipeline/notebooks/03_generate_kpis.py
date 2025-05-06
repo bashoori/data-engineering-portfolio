@@ -1,7 +1,13 @@
+#03_generate_kpis.py
 
-# 03_generate_kpis.py
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import sum, avg, desc
 
-from pyspark.sql.functions import sum, avg, count, desc
+# Start Spark session
+spark = SparkSession.builder.getOrCreate()
+
+# Load transformed data
+df = spark.read.parquet("/FileStore/output/transformed_sales_data")
 
 # Total revenue
 total_revenue = df.agg(sum("order_value").alias("total_revenue"))

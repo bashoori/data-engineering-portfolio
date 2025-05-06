@@ -1,51 +1,82 @@
-# Real-Time Sales Analytics Pipeline with PySpark, AWS, and Databricks
+# 🚀 Real-Time Sales Analytics Pipeline with PySpark, Databricks & AWS
+
+This project demonstrates how to build an end-to-end data pipeline using **PySpark** on **Databricks**, processing sales data from CSV input through transformation and KPI generation.
+
+---
 
 ## 📌 Project Overview
-This project demonstrates how to build a scalable data pipeline using PySpark in Databricks to process and analyze e-commerce sales data stored in AWS S3. The pipeline computes real-time KPIs such as revenue, top-selling products, and average cart size.
 
-## 🛠 Tools Used
-- PySpark
-- Databricks (Community Edition)
-- AWS S3 (Free Tier)
-- Delta Lake
-- GitHub
+The pipeline ingests raw sales data, cleans and transforms it, and computes KPIs such as total revenue, top products, and average cart size. Each notebook is modular and runs independently.
 
-## 🧱 Architecture
+---
 
-![ETL Diagram](etl_diagram.png)
-
-## 🗃 Folder Structure
+## 📁 Folder Structure
 
 ```
-/pyspark-sales-pipeline/
+pyspark-sales-pipeline/
+├── data/
+│   └── sample_sales_data.csv
 ├── notebooks/
 │   ├── 01_ingest_data.py
 │   ├── 02_transform_data.py
-│   ├── 03_generate_kpis.py
-├── data/
-│   └── sample_sales_data.csv
+│   └── 03_generate_kpis.py
 ├── docs/
-│   └── etl_diagram.png
+│   ├── etl_diagram.png
+│   └── databricks_cluster_execution_diagram.png
+├── requirements.txt
 ├── README.md
 ```
 
-## ✅ Features
-- Load raw CSV data from S3
-- Transform using PySpark (cleaning, aggregations, calculations)
-- Write output to Delta Lake
-- Save final KPIs for dashboard use
+---
 
-## 📊 Sample KPIs
-- Total Revenue (Daily)
-- Top 5 Products by Quantity Sold
-- Average Cart Size
-- Revenue by Product Category
+## 🛠 Tech Stack
+
+- **Apache Spark (PySpark)**
+- **Databricks Community Edition**
+- **AWS S3 / DBFS**
+- **Delta Lake (optional)**
+
+---
+
+## 🧱 ETL Flow Summary
+
+1. **Ingest** CSV data from `/FileStore/tables/sample_sales_data.csv`
+2. **Transform** it: clean timestamps, compute order value
+3. **Output** KPIs including total revenue, top products, and average cart size
+
+📊 Diagrams available in [`docs/`](docs/)
+
+---
 
 ## 🚀 How to Run
-1. Upload `sample_sales_data.csv` to your S3 bucket
-2. Open Databricks Community Edition
-3. Use the provided notebooks to process and analyze the data
-4. View results and exported KPI datasets
+
+### Step 1: Upload CSV
+- Upload `sample_sales_data.csv` via Databricks UI → FileStore → Tables
+
+### Step 2: Run the Notebooks
+- `01_ingest_data.py`: Loads and saves raw data
+- `02_transform_data.py`: Cleans data and saves output
+- `03_generate_kpis.py`: Loads transformed data and prints KPIs
+
+Each notebook is independent and uses `.parquet` for shared intermediate storage.
+
+---
+
+## 📈 Sample KPIs Generated
+
+- ✅ Total Revenue
+- ✅ Top 5 Products by Quantity
+- ✅ Average Cart Size
+
+---
 
 ## 🙋‍♀️ Author
-Bita Ashoori – Data Engineer
+
+**Bita Ashoori**  
+_Data Engineer & Digital Entrepreneur_  
+🌐 [GitHub](https://github.com/bitadigitalmarketer)
+
+---
+
+## ⭐️ Show Your Support
+If you found this helpful, please ⭐ the repo or connect on LinkedIn!
