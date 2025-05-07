@@ -42,9 +42,9 @@ Welcome to my Data Engineering Portfolio — a curated collection of cloud-nativ
 - **Highlights**: Offline HTML parsing + Excel export using pandas.
 
 ### 8. Real-Time Sales Analytics Pipeline 🆕  
-**Purpose:** Ingests and transforms sales data to generate business KPIs like revenue and top products  
-**Tools:** PySpark, Databricks, AWS S3, Delta Lake  
-**Highlights:**  
+- **Purpose:** Ingests and transforms sales data to generate business KPIs like revenue and top products  
+- **Tools:** PySpark, Databricks, AWS S3, Delta Lake  
+- **Highlights:**  
 - Modular notebook-based ETL (Ingest → Transform → KPIs)  
 - Uses DBFS and Parquet for intermediate data storage  
 - Visualizes total revenue and average cart size  
