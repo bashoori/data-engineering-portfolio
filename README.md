@@ -50,6 +50,14 @@ Welcome to my Data Engineering Portfolio — a curated collection of cloud-nativ
     - Visualizes total revenue and average cart size  
     - Includes [ETL Flow Diagram](docs/etl_diagram.png) and [Cluster Execution Diagram](docs/databricks_cluster_execution_diagram.png)
 
+### 9. **Customer Purchase Insights Pipeline** 🆕  
+- **Purpose:** Unifies customer purchase data from in-store (CSV), online (JSON), and CRM (CSV) into a structured analytics model.  
+- **Tools:** Python, Pandas, AWS S3, Boto3, GitHub Codespaces  
+- **Highlights:**  
+    - Dual-mode support: runs with local files or directly from S3  
+    - Cleans, flattens, and merges multi-source datasets  
+    - Builds a star-schema-ready `FactOrders` table  
+    - Designed to be deployed or tested in Codespaces or cloud
 ---
 
 ## 🛠️ Skills & Tools
