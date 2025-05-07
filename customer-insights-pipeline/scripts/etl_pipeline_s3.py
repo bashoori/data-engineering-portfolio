@@ -57,7 +57,7 @@ df_combined = pd.concat([df_store, df_online], ignore_index=True)
 df_fact_orders = df_combined.merge(df_customers, on="customer_id", how="left")
 
 # Step 5: Save locally to outputs
-output_path = "../outputs/fact_orders.csv"
+output_path = "../outputs/fact_orders_from_s3.csv"
 df_fact_orders.to_csv(output_path, index=False)
 
 print("✅ ETL complete. Output saved to:", output_path)
