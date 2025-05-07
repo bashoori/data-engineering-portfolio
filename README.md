@@ -45,10 +45,10 @@ Welcome to my Data Engineering Portfolio — a curated collection of cloud-nativ
 - **Purpose:** Ingests and transforms sales data to generate business KPIs like revenue and top products  
 - **Tools:** PySpark, Databricks, AWS S3, Delta Lake  
 - **Highlights:**  
-- Modular notebook-based ETL (Ingest → Transform → KPIs)  
-- Uses DBFS and Parquet for intermediate data storage  
-- Visualizes total revenue and average cart size  
-- Includes [ETL Flow Diagram](docs/etl_diagram.png) and [Cluster Execution Diagram](docs/databricks_cluster_execution_diagram.png)
+    - Modular notebook-based ETL (Ingest → Transform → KPIs)  
+    - Uses DBFS and Parquet for intermediate data storage  
+    - Visualizes total revenue and average cart size  
+    - Includes [ETL Flow Diagram](docs/etl_diagram.png) and [Cluster Execution Diagram](docs/databricks_cluster_execution_diagram.png)
 
 ---
 
